@@ -1,0 +1,1 @@
+### 1. Adresování a správa paměti, Garbage collector
