@@ -1,14 +1,65 @@
-# Maturitní zkouška z technického vybavení - Ústní 
-<br />
+---
+author: "Šimon Kochánek"
+date: "31/12/2020"
+output: pdf_document
+fontsize: 12pt
+---
 
-## 1. Koncepce a architektura číslicových počítačů
+<style type="text/css">
+  body{
+    font-size: 16px;
+  }
+</style>
 
-    Pro koncepce číslicových počítačů se používají historicky dvě koncepce.
+# 1. Koncepce a architektura číslicových počítačů
+
+    Pro koncepce číslicových počítačů se používají historicky dvě.
 
 - Hardwardská koncepce
 - Von Neumannova koncepce
 
-Rozdílů mezi nimi je několik:
-- První koncepce číslicového počítače byla 
-  - vymyšlena Von Neumann, která byla založena na ALU,Paměti jak pro výpočty tak program,řadiče a dalších podpůrných obvodů
+![](images/VonNeumannKoncepce.png)             |  ![](images/HarvardKoncepce.png)
+:-------------------------:|:-------------------------:
+Von Neumann Koncepce    |  Harvard Koncepce
+
+## Základní principy počítače Von Neumanova
+
+### A)
+
+- ALU (Aritmeticko-logická jednotka)
+- Řadič
+- vstupní a výstupní jednotky
+- paměť
+
+### B)
+
+Algoritmus je převeden do programu (posloupnost instrukcí) => Technické prostředky jsou nezavíslé na řešené úloze.
+### C)
+
+Všechny data, instrukce a také adresy jsou vyjádřeny dvojkovými číslicemi.
+
+### D)
+Data a instrukce se uchovávají ve společné paměti na místech označených adresami. Přístup k datům v paměti trvá stejnou dobu pro různá paměťová místa.
+
+### E)
+Zpracování dat řízené programem probíhá automaticky.
+
+    Druhá základní koncepce je Harvardská
     
+-  #### Ta se liší od von Neumanovy v bodu d: počítač má dvě oddělené paměti - jednu jen pro uložení programu, druhou jen pro data. (Paměťové místo není tedy jednoznačně určeno jen adresou - na stejné adrese jsou dvě, případně i více než dvě, různá paměťová místa.)
+
+### Základní pojmy
+
+- #### Instrukce se skládá z operačního znaku (= druh činnosti s operandy) a z adresy (= určení operandů).
+- #### Operand je číslo, s nímž se vykonává příslušná operace
+
+## Průběh výpočetního cyklu:
+
+1. Načtení instrukce z operační paměti do řadiče. Adresa instrukce je v PC, instrukce se přesune do RI. Zvětšení obsahu PC ( přičte se „1“), aby ukazoval na další instrukci.
+2. Dekódování instrukce v DI. Zjištění, zda se budou načítat operandy z OP.
+3. Natažení operandů z paměti do datových registrů v ALU, adresy jsou součástí instrukce nebo zakódovány, na paměťové místo ukazuje řadič (jeden z jeho registrů).
+4. „Výpočet“ v ALU, získání výsledku a informací o něm (příznaky).
+5. Uložení výsledku do paměti na místo, které je určené (zakódované) instrukcí, ukazuje na OP řadič.
+
+# 2. Zobrazení údajů v číslicovém počítači, kódování
+

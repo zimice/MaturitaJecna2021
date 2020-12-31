@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MaturitniOtazky.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<style type="text/css">
+  body{
+    font-size: 16px;
+  }
+</style>
+<h1 id="1-koncepce-a-architektura-%C4%8D%C3%ADslicov%C3%BDch-po%C4%8D%C3%ADta%C4%8D%C5%AF">1. Koncepce a architektura číslicových počítačů</h1>
+<pre><code>Pro koncepce číslicových počítačů se používají historicky dvě.
+</code></pre>
+<ul>
+<li>Hardwardská koncepce</li>
+<li>Von Neumannova koncepce</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><img src="images/VonNeumannKoncepce.png" alt=""></th>
+<th style="text-align:center"><img src="images/HarvardKoncepce.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Von Neumann Koncepce</td>
+<td style="text-align:center">Harvard Koncepce</td>
+</tr>
+</tbody>
+</table>
+<h2 id="z%C3%A1kladn%C3%AD-principy-po%C4%8D%C3%ADta%C4%8De-von-neumanova">Základní principy počítače Von Neumanova</h2>
+<h3 id="a">A)</h3>
+<ul>
+<li>ALU (Aritmeticko-logická jednotka)</li>
+<li>Řadič</li>
+<li>vstupní a výstupní jednotky</li>
+<li>paměť</li>
+</ul>
+<h3 id="b">B)</h3>
+<p>Algoritmus je převeden do programu (posloupnost instrukcí) =&gt; Technické prostředky jsou nezavíslé na řešené úloze.</p>
+<h3 id="c">C)</h3>
+<p>Všechny data, instrukce a také adresy jsou vyjádřeny dvojkovými číslicemi.</p>
+<h3 id="d">D)</h3>
+<p>Data a instrukce se uchovávají ve společné paměti na místech označených adresami. Přístup k datům v paměti trvá stejnou dobu pro různá paměťová místa.</p>
+<h3 id="e">E)</h3>
+<p>Zpracování dat řízené programem probíhá automaticky.</p>
+<pre><code>Druhá základní koncepce je Harvardská
+</code></pre>
+<ul>
+<li>
+<h4 id="ta-se-li%C5%A1%C3%AD-od-von-neumanovy-v-bodu-d-po%C4%8D%C3%ADta%C4%8D-m%C3%A1-dv%C4%9B-odd%C4%9Blen%C3%A9-pam%C4%9Bti---jednu-jen-pro-ulo%C5%BEen%C3%AD-programu-druhou-jen-pro-data-pam%C4%9B%C5%A5ov%C3%A9-m%C3%ADsto-nen%C3%AD-tedy-jednozna%C4%8Dn%C4%9B-ur%C4%8Deno-jen-adresou---na-stejn%C3%A9-adrese-jsou-dv%C4%9B-p%C5%99%C3%ADpadn%C4%9B-i-v%C3%ADce-ne%C5%BE-dv%C4%9B-r%C5%AFzn%C3%A1-pam%C4%9B%C5%A5ov%C3%A1-m%C3%ADsta">Ta se liší od von Neumanovy v bodu d: počítač má dvě oddělené paměti - jednu jen pro uložení programu, druhou jen pro data. (Paměťové místo není tedy jednoznačně určeno jen adresou - na stejné adrese jsou dvě, případně i více než dvě, různá paměťová místa.)</h4>
+</li>
+</ul>
+<h3 id="z%C3%A1kladn%C3%AD-pojmy">Základní pojmy</h3>
+<ul>
+<li>
+<h4 id="instrukce-se-skl%C3%A1d%C3%A1-z-opera%C4%8Dn%C3%ADho-znaku--druh-%C4%8Dinnosti-s-operandy-a-z-adresy--ur%C4%8Den%C3%AD-operand%C5%AF">Instrukce se skládá z operačního znaku (= druh činnosti s operandy) a z adresy (= určení operandů).</h4>
+</li>
+<li>
+<h4 id="operand-je-%C4%8D%C3%ADslo-s-n%C3%ADm%C5%BE-se-vykon%C3%A1v%C3%A1-p%C5%99%C3%ADslu%C5%A1n%C3%A1-operace">Operand je číslo, s nímž se vykonává příslušná operace</h4>
+</li>
+</ul>
+<h2 id="pr%C5%AFb%C4%9Bh-v%C3%BDpo%C4%8Detn%C3%ADho-cyklu">Průběh výpočetního cyklu:</h2>
+<ol>
+<li>Načtení instrukce z operační paměti do řadiče. Adresa instrukce je v PC, instrukce se přesune do RI. Zvětšení obsahu PC ( přičte se „1“), aby ukazoval na další instrukci.</li>
+<li>Dekódování instrukce v DI. Zjištění, zda se budou načítat operandy z OP.</li>
+<li>Natažení operandů z paměti do datových registrů v ALU, adresy jsou součástí instrukce nebo zakódovány, na paměťové místo ukazuje řadič (jeden z jeho registrů).</li>
+<li>„Výpočet“ v ALU, získání výsledku a informací o něm (příznaky).</li>
+<li>Uložení výsledku do paměti na místo, které je určené (zakódované) instrukcí, ukazuje na OP řadič.</li>
+</ol>
+<h1 id="2-zobrazen%C3%AD-%C3%BAdaj%C5%AF-v-%C4%8D%C3%ADslicov%C3%A9m-po%C4%8D%C3%ADta%C4%8Di-k%C3%B3dov%C3%A1n%C3%AD">2. Zobrazení údajů v číslicovém počítači, kódování</h1>
+
+</body>
+</html>
