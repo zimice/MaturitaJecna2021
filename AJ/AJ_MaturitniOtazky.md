@@ -15,7 +15,17 @@ body{
 
 ## My way of education
 
-        My elementary school have been close to my village and has been the biggest one in whole district.I have been going there for nine years and have enjoyed every day.I have made very close friend there and I hope I will never forget the experience I have got there.First few years I dont really remember learning and subjects, just people and relationships between them.After few years I think in fifth grade I really  started enjoying physics and mathematics mostly because of the way that subjects were taught in interesting way and I felt smarter after each hour.I really liked how world interacts by some basic laws and logical consequences.I really enjoyed czech language from seventh grade too, because i was really keen on literature and finding why people like specific books soo much.I didn't really liked Chemistry and Biology.I never enjoyed hours and quizes on trees and plants and minerals.God, How I hated geology.
+         My elementary school have been close to my village and has been the biggest one in whole district.
+        I have been going there for nine years and have enjoyed every day.
+        I have made very close friend there and I hope I will never forget the experience I have got there.
+        First few years I dont really remember learning and subjects, just people and relationships between them.
+        After few years I think in fifth grade, I really started enjoying physics and mathematics,
+        mostly because of the way that subjects were taught in interesting way,and I felt smarter after each hour.
+        I really liked how world interacts by some basic laws and logical consequences.
+        I really enjoyed czech language from seventh grade too, because i was really keen on literature,
+        and finding why people like specific books soo much.
+        I didn't really liked Chemistry and Biology.I never enjoyed hours and quizes on trees and plants and minerals.
+        God, How I hated geology.
 
 ## My path to my High school (Medium school)
 
@@ -130,14 +140,71 @@ body{
                 the United Kingdom emerged as the principal naval and imperial power of the 19th century. British dominance was later described as British Peace,
                 a period of relative peace among the Great Powers (1815–1914) during which the British Empire became the global hegemon and adopted the role of global policeman.
 
-## smth about history maybe colonization
+## First World War
 
-## education vs ours
+                 Britain fought alongside France, Russia and (after 1917) the United States,
+                against Germany and its allies in the First World War.British forces were engaged
+                across much of the British Empire and in several regions of Europe,particularly on the Western front.
+                The high fatalities of trench warfare caused the loss of much of a generation of men,
+                with lasting social effects in the nation and a great disruption in the social order.
 
-## goverment and politics
+                 After the war, Britain received the League of Nations mandate over a number of former German and Ottoman colonies.
+                The British Empire reached its greatest extent, covering a fifth of the world's land surface and a quarter of its population.
+                Britain had suffered 2.5 million casualties and finished the war with a huge national debt.
+                Interesting fact that I don't think everyone knews is that Anglo-Japanese Alliance that bound (1902-1923)
+                Britain and Japan to assist one another in safuarding their respective interest in China and Korea.
+                Directed against Russian expansionism in the Far East,it was a cornerstone of British and Japanese policy in Asia
+                until after World War I.After the war the British no longer feared Russian encroachment in China
+                and wished to maintain close ties with the United States, which tended to view Japan as its rival in the Pacific.
 
-## few everyday differences
+## Second World War
 
+                 After Nazi Germany invaded Poland, Britain entered the Second World War by declaring war on Germany in 1939.
+                Winston Churchill became prime minister and head of a coalition government in 1940.
+                Despite the defeat of its European allies in the first year of the war,
+                Britain and its Empire continued the fight alone against Germany.
+
+                 Churchill engaged indurstry, scientists, and engineers to advise and support the government
+                and the military in the prosecution of the war effort.In 1940 british RAF defeated German Luftwaffe
+                in a struggle of controling British skies.Urban areas suffered heavy bombing during the Blitz.
+                British Army led the Burma campaign against Japan an the British Pacific Fleet fought Japan at sea.
+                British scientists contributed to the Manhattan Project which led to the surrender of Japan.
+
+## Government
+
+                 The United Kingdom is a unitary state under a constitutional monarchy. Queen Elizabeth II.
+                is the monarch and head of the UK, as well as 15 other indepndent countries. These 16 countries
+                are sometimes referred to as "Commonwealth realms". The monarch has "the right to be consulted,
+                the right to encourage, and the right to warn".The UK Parliament can perform "constitutional reform"
+                simply by passing Acts of Parliament,and thus has the political power to change or abolish almost
+                any written or unwritten element of the constitution. No Parliament can pass laws that future Parliaments cannot change
+
+## Characterize the country
+
+                 Firstword some facts:
+
+                - Today the Uk is the fifth-largest economy in the world and the second-largest in Europe after Germany.
+                - There is around 60% chritstian and 25% none.Life expentancy at birth is 80 years.
+                - Obesity over people 28% which is worser than Czechia by 3%.
+                - Uneployment rate is 3.17% which is insignificantly worser than czechia.
+
+                 The United Kingdom has been born country to many scients and great minds.
+                For Example:
+                Isaac Newton, whose laws of motion and illumination of gravity have been seen as a keystone of modern science.
+
+                Charles Darwin, whose theory of evolution by natural selection was fundamental to the development of modern biology.
+
+                James Clerk Maxwell, who formulated classical electromagnetic theory
+
+                And my favorite Stephen Hawking, who advanced major theories in the fields of astronomy,
+                quantum gravity and investigation of black holes and black hole evaporation of it called Hawking radiation.
+
+                 Education in United Kingdom is a devolded matter with each country having a separate education system.
+                Considering the four systems together, about 38 % of the United Kingdom population has a university or college degree,
+                Which is the highest percentage in Europe, and among the highest percentages in the world.
+                I think everyone knows tho major universities: Cambridge and Oxford.In my honest opinion Cambridge is better.
+                Stephen Hawking studied there which is the first thing. The architecture is beautiful.I have been there personally,
+                and I think the school ground are more sympathic
 
 # 11. Information Technology
 
