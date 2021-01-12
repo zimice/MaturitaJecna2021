@@ -33,10 +33,12 @@ body{
 
 #### I would like to talk about my interpretion of holidays, festivals and celebrations
 
-- Holidays in general in Czech Republic
-- What holidays My family celebrates
-- What I would like to change about holidays and celebrations
+## Holidays in general in Czech Republic
 
+## What holidays My family celebrates
+
+## What I would like to change about holidays and celebrations
+ 
 ## Holidays in general in Czech Republic
 
 ## What holidays My family celebrates
@@ -47,4 +49,100 @@ body{
 
 # 4. The USA
 
+## Let's start with some basic information
+
+                USA or United States of America is a country primarily located in North America
+                consisting of 50 states. it is the world's third- or fourth-largest country by total area
+                population is almost 328,000,000 people, it is the third most populous country in the world
+                The national capital is Washington, D.C. In USA 78% people speak English and 14% Spaish and 
+                other 14% people speak other languages like chinese, korean, french 
+
+## Now i am going to talk somthing about history
+
+                The first known use of the name "America" dates back to 1507, when it appeared on a world 
+                map created by the German cartographer Martin Waldseemüller. In 1538, the Flemish 
+                cartographer Gerardus Mercator used the name "America" on his own world map.
+                The first documentary evidence of the phrase "United States of America" dates from a
+                January 2, 1776 letter written by Stephen Moylan, Esquire, to George Washington's
+                aide-de-camp (pobočník) Joseph Reed.
+
+## Several wars took place here
+
+                in 1775 - 1783 began American Revolutionary War which established 
+                independence. by 1848, the United States spanned the continent. Slavery was legal 
+                in the southern United States until the second half of the 19th century when the 
+                American Civil War led to its abolition.The Spanish–American War and World War I 
+                established the U.S. as a world power, a status confirmed by the outcome of 
+                World War II. During the Cold War, the United States and the Soviet Union engaged 
+                in various proxy wars but avoided direct military conflict
+
+## Let's talk about education in USA
+
+                American public education is operated by state and local governments and regulated 
+                by the United States Department of Education through restrictions on federal grants.
+                In most states, children are required to attend school from the age of six or seven
+                until they turn 18; some states allow students to leave school at 16 or 17.
+                About 12% of children are enrolled in parochial or nonsectarian private schools. 
+                Just over 2% of children are homeschooled. The U.S. spends more on education per 
+                student than any nation in the world,[268] spending an average of $12,794 per year 
+                on public elementary and secondary school. Of Americans 25 and older, 84.6% graduated
+                from high school, 52.6% attended some college, 27.2% earned a bachelor's degree, and
+                9.6% earned graduate degrees. The basic literacy rate is approximately 99%
+
+## Now let's move on to goverment and politics
+
+                The United States is a federal republic of 50 states, a federal district, five territories.
+                It is the world's oldest surviving federation. It is a federal republic and a representative
+                democracy "in which majority rule is tempered by minority rights protected by law.
+                In the American federalist system, citizens are usually subject to three levels of government:
+                federal, state, and local. The local government's duties are commonly split between county and
+                municipal governments. In almost all cases, executive and legislative officials are elected by
+                a plurality vote of citizens by district
+
 # 5. The United Kingdom
+
+## Basic information
+
+                 United kingdom of Great Britain and Northern Ireland is a parliamentary constitutional monarchy.
+                The United Kingdom includes the islad of Great Britain, the northeastern part of the island of Ireland,
+                and many smaller islands within the British Isles.The United Kingdom consists of four countries:
+                England, Scotland, Wales and Northern Ireland.Northern Ireland shares a land border with the Republic of Ireland
+                which is the independent state.The population is around 66 millions.In the head of United Kingdom is Elizabeth II.
+                (who was reigned since 1952 )with current prime minister Boris Johnson.The United Kingdom's capital is London,
+                a global city and financial centre with an urban area population of 10.3 milion.There are also 14 British Overseas Territories,
+                the last remnants of British Empire which at its height in the 1920s, encompassed almost a quarter of the world's landmass,
+                and was the largest empire in history.British influence can be observed in the language,
+                culture and political systems of many of its former colonies.
+
+## important history events
+
+                 On 1. May 1707, the Kingdom of Great Britain was formed,
+                the result of Acts of Union being passed by parliamnets of England and Scotland to ratify the 1706 Treaty of Union,
+                and so unite the two kingdoms.Treaty of Union consisted of:
+
+                - Scotland and England should be united into one of name Great Britain 
+                - provided Scotland peers to have the same rights as English peers 
+                - provided Scotland to be represented in the new Parliament of Great Britain by sixteen of its peers and forty-five members of House of Commons
+               
+                 The term 'United Kingdom' became official in 1801 when the parliaments of Great Britain and Ireland each passed an Act of Union,
+                uniting the two kingdoms and creating the United Kingdom of Great Britain and Ireland.
+                After the defeat of France at the end of the Revolutionary and Napoleonic Wars (1792–1815),
+                the United Kingdom emerged as the principal naval and imperial power of the 19th century. British dominance was later described as British Peace,
+                a period of relative peace among the Great Powers (1815–1914) during which the British Empire became the global hegemon and adopted the role of global policeman.
+
+## smth about history maybe colonization
+
+## education vs ours
+
+## goverment and politics
+
+## few everyday differences
+
+
+# 11. Information Technology
+
+## History of it
+
+## Social media
+
+## everyday parts
