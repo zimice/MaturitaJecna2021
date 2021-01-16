@@ -64,7 +64,27 @@ TODO:
 
 # 3. The Czech Republic
 
-TODO: 
+## Basic Information
+
+         The Czech Republic is a landlocked country in Central Europe with population close to 11 mil.
+        It is bordered with Austria,Germany,Poland and Slovakia.
+        The Czech Republic has hilly lansdscape with mostly temperate continental climate and oceanic climate.
+        Czechia ranks as the 27th most environmentally conscious country in the world in Environmental Performance Index.
+        And from world factbook the women have longer lifspan than man.
+
+## important history events
+
+         In 1918, during the collapse of the Habsburg Monarchy at the end of World War I, the independent republic of Czechoslovakia,
+        which joined the winning Allied powers, was created, with Tomas Garrigue Masaryk in the lead.
+        The FIrst Czechoslovak Republic comprosed only 27% of the population of the former Austria-Hungary, but nearly 80% of the industry,
+        which enabled it to compete with Western industrial states.Czechslovakia was the only democracy in Central Europe during the interwar period.
+        Although the First Czechoslovak Republic was a unitary state, it provided certain rights to its minorities.
+
+## etc. on some important history event
+
+## Government
+
+## Characterize the country and some interesting people
 
 # 4. USA
 
