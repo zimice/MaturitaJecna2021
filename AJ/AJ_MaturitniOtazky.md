@@ -1,3 +1,10 @@
+---
+author: "Šimon Kochánek"
+date: "31/12/2020"
+output: pdf_document
+fontsize: 12pt
+---
+
 <style type="text/css">
 body{
     font-size: 12pt;
@@ -40,7 +47,7 @@ body{
         Lets just say and I don't think I am the only one that I do my job in their freetime.If it's making website, 3D modeling , game making, or problem solving with programming complex algorithms.I am not saying that everyone of my classmates focus on this specialization, but instead that small group of students which I won't and can't because of the uncertainty recall.I spent my freetime ordering chips and electrotechnic items Chinese eshops, because I enjoy programming and tinkering with it.
 
 # 2. Holidays, festivals and celebrations
-
+TODO: 
 #### I would like to talk about my interpretion of holidays, festivals and celebrations
 
 ## Holidays in general in Czech Republic
@@ -57,57 +64,109 @@ body{
 
 # 3. The Czech Republic
 
-# 4. The USA
+TODO: 
+
+# 4. USA
 
 ## Let's start with some basic information
 
-                USA or United States of America is a country primarily located in North America
-                consisting of 50 states. it is the world's third- or fourth-largest country by total area
-                population is almost 328,000,000 people, it is the third most populous country in the world
-                The national capital is Washington, D.C. In USA 78% people speak English and 14% Spaish and 
-                other 14% people speak other languages like chinese, korean, french 
+        USA or United States of America is a country primarily located in North America
+        consisting of 50 states. it is the world's third- or fourth-largest country by total area
+        population is almost 328,000,000 people, it is the third most populous country in the world
+        The national capital is Washington, D.C. In USA 78% people speak English and 14% Spaish and 
+        other 14% people speak other languages like chinese, korean, french 
 
 ## Now i am going to talk somthing about history
 
-                The first known use of the name "America" dates back to 1507, when it appeared on a world 
-                map created by the German cartographer Martin Waldseemüller. In 1538, the Flemish 
-                cartographer Gerardus Mercator used the name "America" on his own world map.
-                The first documentary evidence of the phrase "United States of America" dates from a
-                January 2, 1776 letter written by Stephen Moylan, Esquire, to George Washington's
-                aide-de-camp (pobočník) Joseph Reed.
+        The first known use of the name "America" dates back to 1507, when it appeared on a world 
+        map created by the German cartographer Martin Waldseemüller. In 1538, the Flemish 
+        cartographer Gerardus Mercator used the name "America" on his own world map.
+        The first documentary evidence of the phrase "United States of America" dates from a
+        January 2, 1776 letter written by Stephen Moylan, Esquire, to George Washington's
+        aide-de-camp (pobočník) Joseph Reed.
 
-## Several wars took place here
+## in USA took place  Several wars
 
-                in 1775 - 1783 began American Revolutionary War which established 
-                independence. by 1848, the United States spanned the continent. Slavery was legal 
-                in the southern United States until the second half of the 19th century when the 
-                American Civil War led to its abolition.The Spanish–American War and World War I 
-                established the U.S. as a world power, a status confirmed by the outcome of 
-                World War II. During the Cold War, the United States and the Soviet Union engaged 
-                in various proxy wars but avoided direct military conflict
+        in 1775 - 1783 began American Revolutionary War which established 
+        independence. by 1848, the United States spanned the continent. Slavery was legal 
+        in the southern United States until the second half of the 19th century when the 
+        American Civil War led to its abolition.The Spanish–American War and World War I 
+        established the U.S. as a world power, a status confirmed by the outcome of 
+        World War II. During the Cold War, the United States and the Soviet Union engaged 
+        in various proxy wars but avoided direct military conflict
 
 ## Let's talk about education in USA
 
-                American public education is operated by state and local governments and regulated 
-                by the United States Department of Education through restrictions on federal grants.
-                In most states, children are required to attend school from the age of six or seven
-                until they turn 18; some states allow students to leave school at 16 or 17.
-                About 12% of children are enrolled in parochial or nonsectarian private schools. 
-                Just over 2% of children are homeschooled. The U.S. spends more on education per 
-                student than any nation in the world,[268] spending an average of $12,794 per year 
-                on public elementary and secondary school. Of Americans 25 and older, 84.6% graduated
-                from high school, 52.6% attended some college, 27.2% earned a bachelor's degree, and
-                9.6% earned graduate degrees. The basic literacy rate is approximately 99%
+        American public education is operated by state and local governments and regulated 
+        by the United States Department of Education through restrictions on federal grants.
+        In most states, children are required to attend school from the age of six or seven
+        until they turn 18; some states allow students to leave school at 16 or 17.
+        About 12% of children are enrolled in parochial or nonsectarian private schools. 
+        Just over 2% of children are homeschooled. The U.S. spends more on education per 
+        student than any nation in the world, spending an average of $12,794 per year 
+        on public elementary and secondary school. Of Americans 25 and older, 84.6% graduated
+        from high school, 52.6% attended some college, 27.2% earned a bachelor's degree, and
+        9.6% earned graduate degrees. The basic literacy rate is approximately 99%
 
 ## Now let's move on to goverment and politics
 
-                The United States is a federal republic of 50 states, a federal district, five territories.
-                It is the world's oldest surviving federation. It is a federal republic and a representative
-                democracy "in which majority rule is tempered by minority rights protected by law.
-                In the American federalist system, citizens are usually subject to three levels of government:
-                federal, state, and local. The local government's duties are commonly split between county and
-                municipal governments. In almost all cases, executive and legislative officials are elected by
-                a plurality vote of citizens by district
+        The United States is a federal republic of 50 states, a federal district, five territories.
+        It is the world's oldest surviving federation. It is a federal republic and a representative
+        democracy "in which majority rule is tempered by minority rights protected by law.
+        In the American federalist system, citizens are usually subject to three levels of 
+        government: federal, state, and local. The local government's duties are commonly 
+        split between county and municipal governments. In almost all cases, executive 
+        and legislative officials are elected by a plurality vote of citizens by district
+
+## Famous people
+
+        George Washington (1732 - 1799): first president of the USA
+
+        Abraham Lincoln (1809 - 1865): president during the American Civil War and fighter 
+        for the abolishment of slavery
+
+        Thomas Jefferson (1743 - 1826): one of the founding fathers of the nation, author 
+        of the Declaration of Independence
+
+        Sequoyah (1767-1843): inventor of the Cherokee alphabet
+
+        Pocahontas (1595 - 1617): native American who save Jamestown chief and became the 
+        wife of British colonist John Rolfe
+
+        Neil Armstrong (1930 - 2012): astronaut and first man on the Moon
+
+        Amelia Earhart (1897 - 1937): first woman to fly across the Atlantic Ocean
+
+        Eleanor Roosevelt (1884 - 1962): first lady and civil rights activist
+
+        Walt Disney (1901 - 1966): film producer 'Cinderella' and founder of the Disney theme parks
+
+        Martin Luther King Jr. (1929 - 1968): leader of the Civil Rights Movement
+
+
+## There are some interesting facts 
+
+        one of the most iconic symbol of the United States is Statue of Liberty which was actually 
+        a gift from the people of France to the United States in 1886.US then decided to give the 
+        French a slightly smaller Statue of Liberty as a gift three years later
+
+        in 19th Century, Alaska wasn’t part of the USA. In fact, it was a part of Russia. 
+        It wasn’t until it was sold off to the Americans that it became a US territory.
+
+        everyone probably know golden gate bridge, Due to its sheer size, the bridge actually 
+        never stops getting painted
+
+        the national flag of the USA has 13 stripes and 50 white stars on blue background. 
+
+
+        The 13 stripes refer to the 13 British colonies that declared independence from the 
+        kingdom of Great Britain in 1776 and the 50 stars refer to the 50 U.S. states.
+
+        Highest mountain of the USA: Mount Denali, formerly called Mount McKinley, 
+        is 6,190 m/ 20,310 ft high and located in Alaska
+
+        Longest river of the USA: Missouri River with 3,767 km
+
 
 # 5. The United Kingdom
 
@@ -206,10 +265,20 @@ body{
                 Stephen Hawking studied there which is the first thing. The architecture is beautiful.I have been there personally,
                 and I think the school ground are more sympathic
 
-# 11. Information Technology
-
+# 6. English-speaking countries (Canada, Australia, New Zeland)
+//TODO: 
+# 7. Work and business
+//ROBIN
+# 8. Information Technology
+//TODO: 
 ## History of it
 
 ## Social media
 
 ## everyday parts
+
+# 9. Energy Sources
+//ROBIN
+
+# 10. The living environment and its protection
+//TODO: 
