@@ -74,13 +74,20 @@ TODO:
 
 ## important history events
 
-         In 1918, during the collapse of the Habsburg Monarchy at the end of World War I, the independent republic of Czechoslovakia,
+         In 1918, during the collapse of the Habsburg Monarchy at the end of World War I,
+        the independent republic of Czechoslovakia,
         which joined the winning Allied powers, was created, with Tomas Garrigue Masaryk in the lead.
         The FIrst Czechoslovak Republic comprosed only 27% of the population of the former Austria-Hungary, but nearly 80% of the industry,
-        which enabled it to compete with Western industrial states.Czechslovakia was the only democracy in Central Europe during the interwar period.
-        Although the First Czechoslovak Republic was a unitary state, it provided certain rights to its minorities.
+        which enabled it to compete with Western industrial states.
+        Czechslovakia was the only democracy in Central Europe during the interwar period.
+        Although the First Czechoslovak Republic was a unitary state,
+        it provided certain rights to its minorities.
 
-## etc. on some important history event
+## Communism Warsav Pact invasion of Czechoslovakia
+        The invasion successfully stopped Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the KSČ.The communist party was losing influence and it's impact,
+        wasn't as much as in 1948.People could start a small business and there were bright chance,
+        on new democracy.The communist party couldn't allow this and called to Warsav Pact for help.
+        Pact then mobilize the army and moved it's forces into the Czechoslovakia for defeating "capitalism that was beginning its roots" as communist manifesto said.
 
 ## Government
 
