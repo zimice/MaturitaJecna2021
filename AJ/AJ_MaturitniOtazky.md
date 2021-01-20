@@ -187,13 +187,12 @@ TODO:
 
         Longest river of the USA: Missouri River with 3,767 km
 
-
 # 5. The United Kingdom
 
 ## Basic information
 
                  United kingdom of Great Britain and Northern Ireland is a parliamentary constitutional monarchy.
-                The United Kingdom includes the islad of Great Britain, the northeastern part of the island of Ireland,
+                The United Kingdom includes the island of Great Britain, the northeastern part of the island of Ireland,
                 and many smaller islands within the British Isles.The United Kingdom consists of four countries:
                 England, Scotland, Wales and Northern Ireland.Northern Ireland shares a land border with the Republic of Ireland
                 which is the independent state.The population is around 66 millions.In the head of United Kingdom is Elizabeth II.
@@ -203,7 +202,7 @@ TODO:
                 and was the largest empire in history.British influence can be observed in the language,
                 culture and political systems of many of its former colonies.
 
-## important history events
+## Important history events
 
                  On 1. May 1707, the Kingdom of Great Britain was formed,
                 the result of Acts of Union being passed by parliamnets of England and Scotland to ratify the 1706 Treaty of Union,
@@ -249,7 +248,7 @@ TODO:
                 British Army led the Burma campaign against Japan an the British Pacific Fleet fought Japan at sea.
                 British scientists contributed to the Manhattan Project which led to the surrender of Japan.
 
-## Government
+## Government and Politics
 
                  The United Kingdom is a unitary state under a constitutional monarchy. Queen Elizabeth II.
                 is the monarch and head of the UK, as well as 15 other indepndent countries. These 16 countries
