@@ -48,7 +48,7 @@ body{
 
 # 2. Holidays, festivals and celebrations
 TODO: 
-#### I would like to talk about my interpretion of holidays, festivals and celebrations
+## I would like to talk about my interpretion of holidays, festivals and celebrations
 
 ## Holidays in general in Czech Republic
 
@@ -84,10 +84,17 @@ TODO:
         it provided certain rights to its minorities.
 
 ## Communism Warsav Pact invasion of Czechoslovakia
-        The invasion successfully stopped Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the KSČ.The communist party was losing influence and it's impact,
-        wasn't as much as in 1948.People could start a small business and there were bright chance,
-        on new democracy.The communist party couldn't allow this and called to Warsav Pact for help.
-        Pact then mobilize the army and moved it's forces into the Czechoslovakia for defeating "capitalism that was beginning its roots" as communist manifesto said.
+
+        The invasion successfully stopped Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the KSČ.
+        The communist party was losing influence and it's impact,wasn't as much as in 1948.
+        People could start a small business and there were bright chance,on new democracy.
+        The communist party couldn't allow this and called to Warsav Pact for help.
+        Pact then mobilize the army and moved it's forces into the Czechoslovakia,
+        for defeating "capitalism that was beginning its roots" as communist manifesto said.
+
+## The creation of Czech Republic
+
+## My village
 
 ## Government
 
@@ -277,34 +284,63 @@ TODO:
                 For Example:
                 Isaac Newton, whose laws of motion and illumination of gravity have been seen as a keystone of modern science.
 
-                Charles Darwin, whose theory of evolution by natural selection was fundamental to the development of modern biology.
+                Charles Darwin, whose theory of evolution by natural selection was fundamental to the development of modern biology. // TODO: 
 
-                James Clerk Maxwell, who formulated classical electromagnetic theory
+                James Clerk Maxwell, who formulated classical electromagnetic theory //TODO: 
 
                 And my favorite Stephen Hawking, who advanced major theories in the fields of astronomy,
-                quantum gravity and investigation of black holes and black hole evaporation of it called Hawking radiation.
+                quantum gravity and investigation of black holes and black hole evaporation of it called Hawking radiation. // TODO: 
+
+                //TODO: Beatless
 
                  Education in United Kingdom is a devolded matter with each country having a separate education system.
                 Considering the four systems together, about 38 % of the United Kingdom population has a university or college degree,
                 Which is the highest percentage in Europe, and among the highest percentages in the world.
                 I think everyone knows tho major universities: Cambridge and Oxford.In my honest opinion Cambridge is better.
                 Stephen Hawking studied there which is the first thing. The architecture is beautiful.I have been there personally,
-                and I think the school ground are more sympathic
+                and I think the school ground are more sympathic.
+
+## Famous places
+
+
 
 # 6. English-speaking countries (Canada, Australia, New Zeland)
-//TODO: 
+
+## Canada
+
+## New Zeland
+
+## Australia
+
+
 # 7. Work and business
 //ROBIN
 # 8. Information Technology
-//TODO: 
-## History of it
+
+## History
+
+## Everyday Use
+
+## Connection between information Technology and everyday user
 
 ## Social media
 
-## everyday parts
 
 # 9. Energy Sources
 //ROBIN
 
 # 10. The living environment and its protection
-//TODO: 
+
+## Basic Definition
+        
+## History of protecting environment
+
+## Everyday protection of envrironment
+
+## Greenpeace
+
+## Extremely protecting vs Modest protection
+
+## Extremist
+
+
