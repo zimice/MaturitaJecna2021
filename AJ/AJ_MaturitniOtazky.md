@@ -289,54 +289,53 @@ TODO:
 
 ## Second World War
 
-                 After Nazi Germany invaded Poland, Britain entered the Second World War by declaring war on Germany in 1939.
-                Winston Churchill became prime minister and head of a coalition government in 1940.
-                Despite the defeat of its European allies in the first year of the war,
-                Britain and its Empire continued the fight alone against Germany.
-
-                 Churchill engaged indurstry, scientists, and engineers to advise and support the government
-                and the military in the prosecution of the war effort.In 1940 british RAF defeated German Luftwaffe
-                in a struggle of controling British skies.Urban areas suffered heavy bombing during the Blitz.
-                British Army led the Burma campaign against Japan an the British Pacific Fleet fought Japan at sea.
-                British scientists contributed to the Manhattan Project which led to the surrender of Japan.
+         After Nazi Germany invaded Poland, Britain entered the Second World War by declaring war on Germany in 1939.
+        Winston Churchill became prime minister and head of a coalition government in 1940.
+        Despite the defeat of its European allies in the first year of the war,
+        Britain and its Empire continued the fight alone against Germany.
+        Churchill engaged indurstry, scientists, and engineers to advise and support the government
+        and the military in the prosecution of the war effort.In 1940 british RAF defeated German Luftwaffe
+        in a struggle of controling British skies.Urban areas suffered heavy bombing during the Blitz.
+        British Army led the Burma campaign against Japan an the British Pacific Fleet fought Japan at sea.
+        British scientists contributed to the Manhattan Project which led to the surrender of Japan.
 
 ## Government and Politics
 
-                 The United Kingdom is a unitary state under a constitutional monarchy. Queen Elizabeth II.
-                is the monarch and head of the UK, as well as 15 other indepndent countries. These 16 countries
-                are sometimes referred to as "Commonwealth realms". The monarch has "the right to be consulted,
-                the right to encourage, and the right to warn".The UK Parliament can perform "constitutional reform"
-                simply by passing Acts of Parliament,and thus has the political power to change or abolish almost
-                any written or unwritten element of the constitution. No Parliament can pass laws that future Parliaments cannot change
+         The United Kingdom is a unitary state under a constitutional monarchy. Queen Elizabeth II.
+        is the monarch and head of the UK, as well as 15 other indepndent countries. These 16 countries
+        are sometimes referred to as "Commonwealth realms". The monarch has "the right to be consulted,
+        the right to encourage, and the right to warn".The UK Parliament can perform "constitutional reform"
+        simply by passing Acts of Parliament,and thus has the political power to change or abolish almost
+        any written or unwritten element of the constitution. No Parliament can pass laws that future Parliaments cannot change
 
 ## Characterize the country
 
-                 Firstword some facts:
+         Firstword some facts:
 
-                - Today the Uk is the fifth-largest economy in the world and the second-largest in Europe after Germany.
-                - There is around 60% chritstian and 25% none.Life expentancy at birth is 80 years.
-                - Obesity over people 28% which is worser than Czechia by 3%.
-                - Uneployment rate is 3.17% which is insignificantly worser than czechia.
+        - Today the Uk is the fifth-largest economy in the world and the second-largest in Europe after Germany.
+        - There is around 60% chritstian and 25% none.Life expentancy at birth is 80 years.
+        - Obesity over people 28% which is worser than Czechia by 3%.
+        - Uneployment rate is 3.17% which is insignificantly worser than czechia.
+ 
+         The United Kingdom has been born country to many scients and great minds.
+        For Example:
+        Isaac Newton, whose laws of motion and illumination of gravity have been seen as a keystone of modern science.
 
-                 The United Kingdom has been born country to many scients and great minds.
-                For Example:
-                Isaac Newton, whose laws of motion and illumination of gravity have been seen as a keystone of modern science.
+        Charles Darwin, whose theory of evolution by natural selection was fundamental to the development of modern biology. // TODO: 
 
-                Charles Darwin, whose theory of evolution by natural selection was fundamental to the development of modern biology. // TODO: 
+        James Clerk Maxwell, who formulated classical electromagnetic theory //TODO: 
 
-                James Clerk Maxwell, who formulated classical electromagnetic theory //TODO: 
+        And my favorite Stephen Hawking, who advanced major theories in the fields of astronomy,
+        quantum gravity and investigation of black holes and black hole evaporation of it called Hawking radiation. // TODO: 
 
-                And my favorite Stephen Hawking, who advanced major theories in the fields of astronomy,
-                quantum gravity and investigation of black holes and black hole evaporation of it called Hawking radiation. // TODO: 
+        //TODO: Beatless
 
-                //TODO: Beatless
-
-                 Education in United Kingdom is a devolded matter with each country having a separate education system.
-                Considering the four systems together, about 38 % of the United Kingdom population has a university or college degree,
-                Which is the highest percentage in Europe, and among the highest percentages in the world.
-                I think everyone knows tho major universities: Cambridge and Oxford.In my honest opinion Cambridge is better.
-                Stephen Hawking studied there which is the first thing. The architecture is beautiful.I have been there personally,
-                and I think the school ground are more sympathic.
+         Education in United Kingdom is a devolded matter with each country having a separate education system.
+        Considering the four systems together, about 38 % of the United Kingdom population has a university or college degree,
+        Which is the highest percentage in Europe, and among the highest percentages in the world.
+        I think everyone knows tho major universities: Cambridge and Oxford.In my honest opinion Cambridge is better.
+        Stephen Hawking studied there which is the first thing. The architecture is beautiful.I have been there personally,
+        and I think the school ground are more sympathic.
 
 ## Famous places
 
@@ -352,12 +351,47 @@ TODO:
 
 
 # 7. Work and business
+
 //ROBIN
+
 # 8. Information Technology
+
+## Basic definition
+
+         it is the use of computers to store, retrieve, transmit and manipulate data or information.It is typically used to business,
+        personal, or entertainment technologies. This includes many technologies and is on multiple leves on interaction.I would say that,
+        posibilities in ICT are endless as human mind.We use it to every day every second, and I would speculate that is making us,
+        forget more and remember less because we have all info in our pockets right? We don't have to learn so much facts as you can in 10
+        seconds google the information.What would you do with information who was 1. American president when you don't have to remember it.
+        You will forget it unless you are using it.I don't think it's a problem.It will be problem when we will have to use our memory again.
+        I would redirect this discussion to ICT in learning/schools if you don't mind? You have student's that won't learn and will struggle,
+        during elementary schools, because of the facts that they need to learn.And you have kids that won't find it dificulty at all.
+        I think we need to learn more concepts as it is easier to store and learn.The facts are always second.If you know how something works,
+        how it operates what to do and what not, You won't find facts more difficult.Facts are from concept.And human mind learns concept whole life.
+        The more computer teachers (no offense) are used to send links to onedrive and use google meets or teams as fish in water.And if they find problem
+        they google it.I would compare it to software engineer job.We are solving problems everyday (not all of us) and we are making concepts but syntax,
+        or some info that is neceseary during realization we don't remember.So we google it find solution and implement.
+        It is important to google steps or bugs rather than  google and steal the whole solution.
 
 ## History
 
+         We could talk about FM radio and electo tubes and morse code but I think we'll skip that.
+
+        - First concept of computer that is somewhat understandable,is from Alan Turing who conseptualises the computing machine.
+        - After the war the first programmable computer the Manchester Mark 1 is created.
+        - In 1951 is created the first computer in the world to allow users to input commands with keyboard.
+        - 1956 first hard disk by IBM
+        - Silicon Chip the first integrated circuit
+        - First computer mouse on world in 1963
+        - 1971 Email invented and Intel 4004 first commecially used microprocessor
+        - 1975 the most world famous mcu the MOS Technology 6502
+
+        Let's talk about last for bit.In 70s and 80s there were very expensive mcu from Intel and Motorola.Far from affordable for normal customer or geek.
+        Ex-employes of these two companies created company MOS Technology which cutted expenses from Motorola 68000 and Intel 8008 300 dollars to 20 .
+        I hope you can imagine the exicement for electronic geeks and hobyists. They started clubs and printing cicuit board and build of something beatifull.
+
 ## Everyday Use
+        Now let's
 
 ## Connection between information Technology and everyday user
 
@@ -370,8 +404,9 @@ TODO:
 # 10. The living environment and its protection
 
 ## Basic Definition
-        
+
         In my opinion I would define living environment as all nature, animals and all people and their actions to whetever they add or remove the level of health of the environment.
+
 ## History of protecting environment
 
 ## Everyday protection of envrironment
