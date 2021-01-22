@@ -85,7 +85,7 @@ TODO:
 
 ## Communism Warsav Pact invasion of Czechoslovakia
 
-        The invasion successfully stopped Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the KSČ.
+         The invasion successfully stopped Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the KSČ.
         The communist party was losing influence and it's impact,wasn't as much as in 1948.
         People could start a small business and there were bright chance,on new democracy.
         The communist party couldn't allow this and called to Warsav Pact for help.
@@ -94,11 +94,49 @@ TODO:
 
 ## The creation of Czech Republic
 
-## My village
+         On the 17. November the Velvet Revolution began as non-violent protest and transition of power from Communist party.
+        They announced that they would seize all their power and end to the one-party state.
+        All the barbered wire obstructions were removed from the border with West Germany and Austria in early December.
+        On 29. December the Václav Havel was elected on the President of Czechoslovakia.
+        In June 1990 Czechoslovakia held its first democratic elections since 1946.On 1. January , Czechslovakia split into two countries.
+
+## Capital City Prague
+
+         The Capital city of Czech Republic is Prague as were in it right now.It's the largest city,
+        and I in my honest opinnion the most beutifful one in Czech Republic.
+        The city has warm summers and chilly winters.Prague is political, cultural and economic centre of central Europe,
+        with rich history. Prague is home to a number of well-known cultural attractions,
+        many of which survived the violence and destruction of 20th-century Europe.
+        Main attractions include Prague Castle, Charles Bridge, Old Town Square with Prague astronomical clock
+        Petřín hill and Vyšehrad. For me it's Petřín hill which I like the most.I have really good memories and stories on it.
+        I had a date that went very well and was very romantic.As we were gazing on Prague, laying in grass and eating bagguete with blue cheese,
+        and talking about future plans and how We gonna live our lives. And i think I had visited a pub on top of the hill with guys and
+        I don't think I need to explain how that went.I am from village named Libeń that is close to Dolní Břežany that is home toIf anyone of you heard
+        about ELI centre or more famously called "The biggest laser in Centre Europe".It's like hour and half from Palacky's square.
+        But one bus can take you as far as Modřany are.
 
 ## Government
 
+         Let's talk about favorite czech subject : The politics. We are parliamentary representative democratic state.
+        The Parliament is made of two parts.The Chamber of Deputies and the Senate.The Chamber of Deputies has 200 seats and its members are
+        elected for four year term.The senate has 81 seats and it's members are elected for six year term with one third changed every even year.
+        The Parliament is making proposal on law and if they agree on it they send it to senate for agreement.If they don't agree it's returned to Parliament.
+        And it continues like that.We have president who is right now Miloš Zeman and his main purpose is to represent country in foreign countries,
+        and doesn't wield as much power as in America or France.But with Prime minister their signatures can make something.
+        President is also head of Military of Czech Republic.We have also prime minister whose role is to appoint other ministersand cabinet.
+        The Cabinet must receive confidence from the Chamber of Deputies and the Prime Minister stays in office,
+        only as long as he or she retains the support of a majority of its members.
+
 ## Characterize the country and some interesting people
+
+         It's no secret that czech people love bear and food rich on fat and carbs.The second type Diabettes is represented , but I think that
+        health standard is improving.During the lockdown I was suprised by how many people started exercising.It's for speculation if they started
+        because of mental problems or physical.I exercised a lot during quarantine.I was really angry and I needed a way to get it of me.
+        I went running often too.And I started long walks with my dog where we would lost on some field and just go in direction without purpose or end.
+        The long walks into the unknown are really good on mindfullness and sorting thoughts.I can't say that one day I won't leave Czech republic.
+        I would really like to but , I don't think that it is in nearly future. I am thinking about starting in another country from zero,
+        but I don't think that it is rational.Is it better to travel and maybe move now or after 10 years.What would slow me and hurt me more.
+        And I would say that I am someone who take risks.
 
 # 4. USA
 
@@ -205,49 +243,49 @@ TODO:
 
 ## Basic information
 
-                 United kingdom of Great Britain and Northern Ireland is a parliamentary constitutional monarchy.
-                The United Kingdom includes the island of Great Britain, the northeastern part of the island of Ireland,
-                and many smaller islands within the British Isles.The United Kingdom consists of four countries:
-                England, Scotland, Wales and Northern Ireland.Northern Ireland shares a land border with the Republic of Ireland
-                which is the independent state.The population is around 66 millions.In the head of United Kingdom is Elizabeth II.
-                (who was reigned since 1952 )with current prime minister Boris Johnson.The United Kingdom's capital is London,
-                a global city and financial centre with an urban area population of 10.3 milion.There are also 14 British Overseas Territories,
-                the last remnants of British Empire which at its height in the 1920s, encompassed almost a quarter of the world's landmass,
-                and was the largest empire in history.British influence can be observed in the language,
-                culture and political systems of many of its former colonies.
+         United kingdom of Great Britain and Northern Ireland is a parliamentary constitutional monarchy.
+         The United Kingdom includes the island of Great Britain, the northeastern part of the island of Ireland,
+        and many smaller islands within the British Isles.The United Kingdom consists of four countries:
+        England, Scotland, Wales and Northern Ireland.Northern Ireland shares a land border with the Republic of Ireland
+        which is the independent state.The population is around 66 millions.In the head of United Kingdom is Elizabeth II.
+        (who was reigned since 1952 )with current prime minister Boris Johnson.The United Kingdom's capital is London,
+        a global city and financial centre with an urban area population of 10.3 milion.There are also 14 British Overseas Territories,
+        the last remnants of British Empire which at its height in the 1920s, encompassed almost a quarter of the world's landmass,
+        and was the largest empire in history.British influence can be observed in the language,
+        culture and political systems of many of its former colonies.
 
 ## Important history events
 
-                 On 1. May 1707, the Kingdom of Great Britain was formed,
-                the result of Acts of Union being passed by parliamnets of England and Scotland to ratify the 1706 Treaty of Union,
-                and so unite the two kingdoms.Treaty of Union consisted of:
+         On 1. May 1707, the Kingdom of Great Britain was formed,
+        the result of Acts of Union being passed by parliamnets of England and Scotland to ratify the 1706 Treaty of Union,
+        and so unite the two kingdoms.Treaty of Union consisted of:
 
-                - Scotland and England should be united into one of name Great Britain 
-                - provided Scotland peers to have the same rights as English peers 
-                - provided Scotland to be represented in the new Parliament of Great Britain by sixteen of its peers and forty-five members of House of Commons
+        - Scotland and England should be united into one of name Great Britain 
+        - provided Scotland peers to have the same rights as English peers 
+        - provided Scotland to be represented in the new Parliament of Great Britain by sixteen of its peers and forty-five members of House of Commons
                
-                 The term 'United Kingdom' became official in 1801 when the parliaments of Great Britain and Ireland each passed an Act of Union,
-                uniting the two kingdoms and creating the United Kingdom of Great Britain and Ireland.
-                After the defeat of France at the end of the Revolutionary and Napoleonic Wars (1792–1815),
-                the United Kingdom emerged as the principal naval and imperial power of the 19th century. British dominance was later described as British Peace,
-                a period of relative peace among the Great Powers (1815–1914) during which the British Empire became the global hegemon and adopted the role of global policeman.
+        The term 'United Kingdom' became official in 1801 when the parliaments of Great Britain and Ireland each passed an Act of Union,
+        uniting the two kingdoms and creating the United Kingdom of Great Britain and Ireland.
+        After the defeat of France at the end of the Revolutionary and Napoleonic Wars (1792–1815),
+        the United Kingdom emerged as the principal naval and imperial power of the 19th century. British dominance was later described as British Peace,
+        a period of relative peace among the Great Powers (1815–1914) during which the British Empire became the global hegemon and adopted the role of global policeman.
 
 ## First World War
 
-                 Britain fought alongside France, Russia and (after 1917) the United States,
-                against Germany and its allies in the First World War.British forces were engaged
-                across much of the British Empire and in several regions of Europe,particularly on the Western front.
-                The high fatalities of trench warfare caused the loss of much of a generation of men,
-                with lasting social effects in the nation and a great disruption in the social order.
+         Britain fought alongside France, Russia and (after 1917) the United States,
+        against Germany and its allies in the First World War.British forces were engaged
+        across much of the British Empire and in several regions of Europe,particularly on the Western front.
+        The high fatalities of trench warfare caused the loss of much of a generation of men,
+        with lasting social effects in the nation and a great disruption in the social order.
 
-                 After the war, Britain received the League of Nations mandate over a number of former German and Ottoman colonies.
-                The British Empire reached its greatest extent, covering a fifth of the world's land surface and a quarter of its population.
-                Britain had suffered 2.5 million casualties and finished the war with a huge national debt.
-                Interesting fact that I don't think everyone knews is that Anglo-Japanese Alliance that bound (1902-1923)
-                Britain and Japan to assist one another in safuarding their respective interest in China and Korea.
-                Directed against Russian expansionism in the Far East,it was a cornerstone of British and Japanese policy in Asia
-                until after World War I.After the war the British no longer feared Russian encroachment in China
-                and wished to maintain close ties with the United States, which tended to view Japan as its rival in the Pacific.
+         After the war, Britain received the League of Nations mandate over a number of former German and Ottoman colonies.
+        The British Empire reached its greatest extent, covering a fifth of the world's land surface and a quarter of its population.
+        Britain had suffered 2.5 million casualties and finished the war with a huge national debt.
+        Interesting fact that I don't think everyone knews is that Anglo-Japanese Alliance that bound (1902-1923)
+        Britain and Japan to assist one another in safuarding their respective interest in China and Korea.
+        Directed against Russian expansionism in the Far East,it was a cornerstone of British and Japanese policy in Asia
+        until after World War I.After the war the British no longer feared Russian encroachment in China
+        and wished to maintain close ties with the United States, which tended to view Japan as its rival in the Pacific.
 
 ## Second World War
 
@@ -333,6 +371,7 @@ TODO:
 
 ## Basic Definition
         
+        In my opinion I would define living environment as all nature, animals and all people and their actions to whetever they add or remove the level of health of the environment.
 ## History of protecting environment
 
 ## Everyday protection of envrironment
