@@ -118,12 +118,60 @@ Jedná se o graf který neobsahuje žádnou smyčku tzn. že se nemohu dostat na
 
 Binarní strom
 
+Používá se na ukládání a vyhledávání dat.Jedná se o orientovaný graf s jedním vrcholem, z něhož existuje cesta do všech vrcholů grafu.
+
+Typy binárních stromů
+
+- Binární strom a ten obsahuje uzly, které mají nejvýš 2 syny
+- Plný binární strom každý vnitřní uzel má dva syny
+
+### Matice sousednosti
+
+### Djikstrův algoritmus
+
+
 ![](images/graph-binary-tree.png)
 
 
 ## Prohledávání stavového prosturu
 
-## Řazení
+Tři základní vlastnosti, podle kterých lze metody hodnotit.
+
+- Časová složitost => minimální/maximální/průměrný čas potřebný k vyřešení úlohy danou metodou.
+
+- Prostorová složitost => minimální/maximální/průměrné množství operační paměti potřebné k řešení úlohy.
+  V zájmu nezávislosti na platformě se místo údaje o počtu megabytů používá např. počet stavů současně uchovaných v paměti.
+  
+- Kvalita získaných výsledků => zahrnuje výpověď o tom, zda je daná metoda úplná (nalezne řešení vždy, když existuje)
+  
+### Neinformované metody
+
+     Neinformované metody prohledávání nemají k dispozici žádné vhodné znalosti o stavovém prostoru, které by jim umožnily urychlit cestu k cíli.
+    Jsou tak odsouzeny k systematickému procházení všech uzlů, dokud nenaleznou řešení.
+    Jednotlivé algoritmy se od sebe liší jen způsobem, jakým toto systematické procházení provádějí.
+
+- prohledávání do šířky
+- prohledávání do hloubky
+- iterativní prohledávání do hloubky
 
 
+### Informované metody
+
+     Informované metody prohledávání mají navíc znalosti o stavovém prostoru, které jim umožňují odhadnout, jak daleko se nachází řešení od aktuálního stavu.
+    Tento odhad reprezentuje tzv. heuristická funkce h{n}. Čím nižší hodnoty h{n} nabývá, tím spíše povede cesta k řešení skrze stav n.
+
+- uspořádané prohledávání (Best-first search) – Prohledávání do šířky upřednostňující „slibné“ stavy
+
+- Lokální metody prohledávání
+
+
+## Třídění
+
+
+
+### Bubble sort
+
+### Quick sort
+
+### Merge Sort
 
