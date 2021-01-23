@@ -1,3 +1,17 @@
+---
+author: "Šimon Kochánek"
+date: "31/12/2020"
+output: pdf_document
+fontsize: 12pt
+---
+
+<style type="text/css">
+body{
+    font-size: 12pt;
+}
+</style>
+
+
 # 1. Adresování a správa paměti, Garbage collector
 
 [comment]: <Source> (https://www.baeldung.com/java-stack-heap)
@@ -64,7 +78,7 @@ Pojďme analyzovat tento kód
     // JVM aby recyklovalo nepoužívané objekty
 ```
 
-Jak už bylo řečeno Garbage collector ničí objekty, které jsou podle něj unreachable.Nemůžeme předpokládat kdy bude gc čistit pamět nebo kdy se bude muset třeba v horším případě program i zastavit, kvůli čištění paměti.Je to určitě snažší pro programování bez myšlení na náročnost paměti či náročnosti výpočetní, ale jako programátor, který zodpovídá za svůj program by měl vědět kdy program bude využívat svůj čas pro svoji správu.
+Jak už bylo řečeno Garbage collector ničí objekty, které jsou podle něj unreachable.Nemůžeme předpokládat kdy bude gc čistit pamět nebo kdy se bude muset třeba v horším případě program i zastavit, kvůli čištění paměti. Je to určitě snažší pro programování bez myšlení na náročnost paměti či náročnosti výpočetní, ale jako programátor, který zodpovídá za svůj program by měl vědět kdy program bude využívat svůj čas pro svoji správu.
 
 Výhody:
 
@@ -83,6 +97,33 @@ Nevýhody:
 
 # 2. Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
 
-## adfasdf
+## Teorie Grafů
 
-afdafd
+### Co je graf? 
+
+Graf je matematická struktůra, definovaná množina vrcholů a množinou hran, kde každá hrana je určena povinně dvěma vrcholy a volitelně směrem.
+Používá se na modeloví vlastně čehokoliv v reálném světě.Není duležíté jak namalujete graf,ale jak ho propojíte
+
+![](images/graph.svg)
+
+Jak jde vidět, můžeme udělat i cykly a podgrafy v grafu.
+
+### Strom
+
+Jedná se o graf který neobsahuje žádnou smyčku tzn. že se nemohu dostat na stejný vrchol bez toho abych se dostal na vchol na kterém jsem už byl.
+
+![](images/graph-tree.png)
+
+### Binární strom
+
+Binarní strom
+
+![](images/graph-binary-tree.png)
+
+
+## Prohledávání stavového prosturu
+
+## Řazení
+
+
+

@@ -18,9 +18,9 @@ fontsize: 12pt
 - Hardwardská koncepce
 - Von Neumannova koncepce
 
-![](images/VonNeumannKoncepce.png)             |  ![](images/HarvardKoncepce.png)
-:-------------------------:|:-------------------------:
-Von Neumann Koncepce    |  Harvard Koncepce
+| ![](images/VonNeumannKoncepce.png) | ![](images/HarvardKoncepce.png) |
+| :--------------------------------: | :-----------------------------: |
+|        Von Neumann Koncepce        |        Harvard Koncepce         |
 
 ## Základní principy počítače Von Neumanova
 
@@ -299,10 +299,89 @@ A B XOR
 11001 XOR 00101 = 11100
 kazdy bit pokud se neshoduji tak jedan
 
-// ODEVZDAT 3 UKOL
-
 # 4. Kombinační obvody, jejich realizace z pravdivostní tabulky
+
+## Pravdivostní tabulky logických funkcí
+
+- Logický průnik AND
+
+| A   | B   | AND |
+| --- | --- | --- |
+| 0   | 0   | 0   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 1   |
+
+<br />
+
+- Logické sjednocení OR
+
+| A   | B   | OR  |
+| --- | --- | --- |
+| 0   | 0   | 0   |
+| 0   | 1   | 1   |
+| 1   | 0   | 1   |
+| 1   | 1   | 1   |
+
+<br />
+
+- Logická neshodnost  XOR
+
+| A | B | XOR |
+|---|---|-----|
+| 0 | 0 | 0   |
+| 0 | 1 | 1   |
+| 1 | 0 | 1   |
+| 1 | 1 | 0   |
+
+<br />
+
+- Logický doplněk Negace
+
+| A | A' |
+|---|----|
+| 0 | 1  |
+| 1 | 0  |
+
+<br />
+
+## Typy kombinačních obvodů
+
+  Nejdostupnějším kombinačním obvodem je NAND, neboli známé hradlo 74HC00.Existuje dvou vstupové až osmivstupové ale nikoli liché číslo.
+  
+Jeho pravdivostní tabulka: 
+
+| A | B | NAND |
+|---|---|------|
+| 0 | 1 | 1    |
+| 0 | 1 | 1    |
+| 1 | 0 | 1    |
+| 1 | 1 | 0    |
+
+<br />
+
+Důvod většího výskytu NANDu je z důvodu jednodušího zapojení než AND.
+
+Mezi kombinačními obvody najdeme krom těchto základních také NOR který má takovou to pravdivostní tabulku:
+
+| A | B | NOR |
+|---|---|-----|
+| 0 | 1 | 1   |
+| 0 | 1 | 0   |
+| 1 | 0 | 0   |
+| 1 | 1 | 0   |
+
+<br />
+
+Také můžeme použít pevné paměti na programování jednotlivých vstupů a na výstup nahrát danou hodnotu.
 
 # 5. Sekvenční obvody, jejich realizace, použíté klopné obvody
 
 # 6. Programovatelné logické obvody
+
+# 7. Mikrořadiče (MCU), jeho struktura, význačné integrované periferie
+
+# 8. Program, programovací jazyky, příkaz, instrukce, druhy adresování, skoky
+
+# 9. Mikroprocesor v reálném režimu, adresování LA a FA
+
