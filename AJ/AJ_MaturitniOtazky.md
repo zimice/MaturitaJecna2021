@@ -391,7 +391,10 @@ TODO:
         I hope you can imagine the exicement for electronic geeks and hobyists. They started clubs and printing cicuit board and build of something beatifull.
 
 ## Everyday Use
-        Now let's
+
+        Now let's talk about everyday use sources of everyday using.I count and I hope that everyone in this room owns a smartphone.If anyone disagree raise your hand? No one ? Good.So what is the first thing you do in the morning? Do you stretch your body or just close your eyes and slowly wake up?Maybe you jump out of your bed and start making it and I think that is the best start.But I don't think that at least one person out of this room starts his day by looking at notifications on his phone or start scrolling through Instagram or Facebook.My day starts and opening my eyes looking at time how much time I spent in limbo and then taking my phone and looking on world news and what happened during my sleep.I don't really consider this a bad habit, but nothing would happen during my wake up phase.
+        Let's return to your everyday using.I have some lifehacks for you to use on your phone.First thing that will tell you a lot.
+
 
 ## Connection between information Technology and everyday user
 
