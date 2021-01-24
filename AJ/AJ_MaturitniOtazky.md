@@ -393,13 +393,16 @@ TODO:
 ## Everyday Use
 
         Now let's talk about everyday use sources of everyday using.I count and I hope that everyone in this room owns a smartphone.If anyone disagree raise your hand? No one ? Good.So what is the first thing you do in the morning? Do you stretch your body or just close your eyes and slowly wake up?Maybe you jump out of your bed and start making it and I think that is the best start.But I don't think that at least one person out of this room starts his day by looking at notifications on his phone or start scrolling through Instagram or Facebook.My day starts and opening my eyes looking at time how much time I spent in limbo and then taking my phone and looking on world news and what happened during my sleep.I don't really consider this a bad habit, but nothing would happen during my wake up phase.
-        Let's return to your everyday using.I have some lifehacks for you to use on your phone.First thing that will tell you a lot.
-
+        Let's return to your everyday using.I have some lifehacks for you to use on your phone.First thing that will tell you a lot is a Time management app.The one I use is RescueTime which you can install in smartphone IOS or Android,Linux MacOS or Windows.It will map every app you use, but not the data or track you for ads. It's dashboard shows every page from very productive to veru unprodactive and shows you different tabs for every app. Next app that will improve your sleep very notably.It's called night shift basiclly.It eliminates blue light and replaces is it with more hot colors.It won't significantly 
+        reduce the creation of melatonin that is sleep hormone that is making you sleepier. These are the most basic ones
 
 ## Connection between information Technology and everyday user
 
+        Well you probably have a microsoft account from school and maybe your personal and maybe if you have side job you are using it's tools to comunicate and work with your collegues. It has cloud storage, emails, communicative groups with file sharing and quick videochats.It is really good system which even includes online word editor and powerpoint, table software. 
+
 ## Social media
 
+        If anyone of you doesn't use any social media raise your hand.No one.That says something.You use it why.For communicating with your friends?Because your children use it?Or because of the information you can get from there? These are all understandeble reasons why you would use such a thing.Let's take the oldest and still used today.Facebook by Mark Zuckerberk is the most popular. It has groups, pages around some theme where people add posts. and it has your page and it's friends. It is around year 2004 so like 16 years old. It collects your personal data and if you have it open it tracks what you browser for advertisement purposes.I don't really like it and I have all trackers and cookies blocked.Most of my age group moved to instagram as many older generation moved to facebook.Instagram on other hand is better as it only has pictures and messaging and My age group probably doesn't need any more of it.There is also messenger which everyone uses but it is separted from facebook as much as it can be.And people don't trust it, but use it which is funny.        
 
 # 9. Energy Sources
 //ROBIN
