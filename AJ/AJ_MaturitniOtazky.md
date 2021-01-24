@@ -343,8 +343,6 @@ TODO:
 
 # 6. English-speaking countries (Canada, Australia, New Zeland)
 
-## Canada
-
 ## New Zeland
 
 ## Australia
@@ -385,7 +383,7 @@ TODO:
         - First computer mouse on world in 1963
         - 1971 Email invented and Intel 4004 first commecially used microprocessor
         - 1975 the most world famous mcu the MOS Technology 6502
-
+         // APPLE TODO:
         Let's talk about last for bit.In 70s and 80s there were very expensive mcu from Intel and Motorola.Far from affordable for normal customer or geek.
         Ex-employes of these two companies created company MOS Technology which cutted expenses from Motorola 68000 and Intel 8008 300 dollars to 20 .
         I hope you can imagine the exicement for electronic geeks and hobyists. They started clubs and printing cicuit board and build of something beatifull.
@@ -403,7 +401,7 @@ TODO:
 ## Social media
 
         If anyone of you doesn't use any social media raise your hand.No one.That says something.You use it why.For communicating with your friends?Because your children use it?Or because of the information you can get from there? These are all understandeble reasons why you would use such a thing.Let's take the oldest and still used today.Facebook by Mark Zuckerberk is the most popular. It has groups, pages around some theme where people add posts. and it has your page and it's friends. It is around year 2004 so like 16 years old. It collects your personal data and if you have it open it tracks what you browser for advertisement purposes.I don't really like it and I have all trackers and cookies blocked.Most of my age group moved to instagram as many older generation moved to facebook.Instagram on other hand is better as it only has pictures and messaging and My age group probably doesn't need any more of it.There is also messenger which everyone uses but it is separted from facebook as much as it can be.And people don't trust it, but use it which is funny.        
-
+        
 # 9. Energy Sources
 //ROBIN
 
