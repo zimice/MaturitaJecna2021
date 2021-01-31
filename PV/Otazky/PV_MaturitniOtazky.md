@@ -167,11 +167,71 @@ Tři základní vlastnosti, podle kterých lze metody hodnotit.
 
 ## Třídění
 
+    Pojem třídění je možná maličko nepřesný, často se však používá. Nehodláme data (čísla, řetězce a jiné) rozdělovat do nějakých tříd, ale přerovnat je do správného pořadí, od nejmenšího po největší – ať už pro nás „větší“ znamená jakékoliv uspořádání.
+
 
 
 ### Bubble sort
 
-### Quick sort
+Bubble sort je poměrně hloupý algoritmus, který se vyskytuje v podstatě jen v akademickém světě. Nemá žádné dobré vlastnosti a je zajímavý pouze svým průběhem, který může připomínat fyzikální nebo přírodní jevy. Algoritmus probíhá ve vlnách, přičemž při každé vlně propadne "nejtěžší" prvek na konec (nebo nejlehčí vybublá nahoru, záleží na implementaci). 
+
+![](images/BubbleSort.png)
 
 ### Merge Sort
+
+Merge sort je algoritmus, založený na tzv. principu rozděl a panuj (latinsky divide et impera, anglicky divide and conquer). To znamená, že pokud nějaký problém neumíme vyřešit v celku, rozložíme si ho na více menších a jednodušších problémů. Ten samý postup aplikujeme i na tyto problémy (opět je rozdělíme na ještě menší, mimochodem velmi se zde nabízí rekurzivní řešení) až se dostaneme na takovou úroveň, kterou jsme schopni bez problému řešit. V problému třídění se často chceme dostat až k poli velikosti 1, které považujeme automaticky za setříděné.
+
+![](images/MergeSort.png)
+
+### Quick sort
+
+Jak již název napovídá, Quicksort je rychlý. On je dokonce nejrychlejší a je to algoritmus, který se skutečně používá v praxi k třídění prvků, proto bude tento článek o něco obsáhlejší, než ostatní. Chová se dobře jak na malých, tak na velkých polích a je paměťově nenáročný. Algoritmus je založen na principu rozděl a panuj, který jsme si již vysvětlili v algoritmu Merge sort.
+
+![](images/QuickSort.png)
+
+# 3. Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy
+
+## Rekurze
+
+### Přímá
+
+```java
+    public int faktorial(int n){
+        int vysledek;
+        if(n == 1)
+            return 1;
+        vysledek = faktorial(n-1) * n;
+        return vysledek;
+    }
+```
+
+>Metoda volá neustále sama sebe, jelikož v si program zapamutuje stav rozpracované funkce.V uvedeném případě odpočítáváme faktoriál dokud se nedostaneme k výsledku
+
+
+### Nepřímá
+
+Jedná se o cyklickou rekurzi mezi několika metodami.
+
+## Brute Force
+
+je většinou pokus o rozluštění šifry bez znalostí jejího klíče k dešifrování.V praxi se jedná o systematické testování všech možných kombinací.Útok hrubou silou se často používá pro uhádnutí dvojice uživatel a heslo. Je možné používat náhodná (resp. generická) přihlašovací jména a hesla při pokusech o autentizaci, případně možné varianty omezit. Například získat seznam uživatelských jmen a zkoušet prolomit pouze heslo.
+
+> Čas potřebný pro útok hrubou silou roste exponenciálně s rostoucí délkou klíče, protože se tím zvětšuje i prostor klíče (anglicky key space).
+
+## Heuristiky
+
+    Heuristikou nazýváme postup, který, i když neprobere všechny možnosti, je schopný v některých případech podat výsledek. Výsledek je podáván zpravidla jedním ze dvou možných způsobů. Buď jako kladný výsledek (odpověď), nebo jako výrok neurčitosti.
+
+Jsou vhodné zejména pro řešení složitých funkcí s mnoha parametry a složitým průběhem s mnoha extrémy.
+
+Např. Problém obchodního cestujícího.
+
+Existuje n měst, mezi nimi silnice o známých délkách. Úkolem je najít nejkratší možnou trasu procházející všemi městy a vracející se nazpět do výchozího města.
+
+
+## Nedeterministké alogritmy
+
+Absolutne nvm.
+
+# 4. Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client/Server
 

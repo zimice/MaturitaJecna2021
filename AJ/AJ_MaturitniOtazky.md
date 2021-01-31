@@ -343,14 +343,137 @@ TODO:
 
 # 6. English-speaking countries (Canada, Australia, New Zeland)
 
-## New Zeland
+## New Zealand
 
-## Australia
+### Overview
+        New Zealand is an island country in Pacific Ocean it consists of North and South Island and more smaller islands.It is constitutional monarchy with a parliamentary democracy, although its constitution is not codified.Queen Elizabeth the second is the queen of New Zealand and thus the head of state.
+
+### History
+
+        it is one of the last major landmasses settled by humans.Over the centuries that followed, the Polynesian settlers developed a distinct culture now known as Maori.In 1907 King Edward VII proclaimed New Zealand a Dominion within the British Empire, reflecting its self-governing status.
+
+        Early in the 20th century, New Zealand was involved in world affairs, fighting in the First and Second World Wars and suffering through the Great Depression.
+
+### Environment and Interesting facts
+
+CANADA
+---------------------------------------------------------------------------------------------
+canada lies north of the usa. capital city is Ottava. 
+Canada consists of ten provinces and three territories
+people speak mostly in english and french. governments 
+in canada is Federal constitutional monarchy
+in the lead with Elizabeth II. The highest mountain is Mount Logan and longest river
+is Mackenzie.
+
+culture
+
+there remains of the tradition of the original inhabitants (Indians and Eskimos) and 
+the tradition of immigrants
+
+Architecture and monuments
+
+The most famous Canadian architect is Frank Gehry. He designed the building like
+Walt Disney Concert Hall, CN Tower, Tančící dům.
+
+Music
+
+An important composer is Howard Shore, who became famous especially in the 
+field of film. He is also music author of music for the film trilogy The Lord of the Rings.
+among the other most famous music creators are Justin Bieber, Drake, Shawn Mendes and
+David Foster
+
+Movies
+
+Lot of Hollywood stars are from Canada. For exaple Jim Carrey, Keanu Reeves, Donald Sutherland.
+As a most famous director we can classify James Cameron and David Cronenberg.
+
+Sport
+
+In Canada is ice hockey the most popular sport and it is taken as national sport.
+As the best hockey player of all time is often called Wayne Gretzky.
+
+
+
+AUSTRALIA
+
+is located in the southern hemisphere located on the continent of the same name. to australia 
+also belongs island Tasmania. The national language is english. government in asutralia is the
+same as in canada. Capital city is Canberra
+
 
 
 # 7. Work and business
 
-//ROBIN
+WORK AND BUSINESS
+-------------------------------------------------------
+
+What is work
+
+Work is intentional activity people perform to support 
+themselves, others, or the needs and wants of a wider community.
+Alternatively, work can be viewed as the human activity that contributes 
+towards the goods and services within an economy.
+
+Work is fundamental to all societies, but can vary widely within and between 
+them, from gathering in natural resources by hand, to operating complex 
+technologies that substitute for physical or even mental effort by many human 
+beings. All but the simplest tasks also require specific skills, equipment or 
+tools, and other resources 
+
+Because sustained effort is a necessary part of many human activities, what qualifies
+as work is often a matter of context. Specialization is one common feature that 
+distinguishes work from other activities. For example, a sport is a job for a professional 
+athlete who earns their livelihood from it, but a hobby to someone playing for fun in 
+their community
+
+What is business
+
+Business is the activity of making one's living or making money by producing or buying 
+and selling products (such as goods and services). Simply it is "any activity or 
+enterprise entered into for profit."
+
+Having a business name does not separate the business entity from the owner, which means
+that the owner of the business is responsible and liable for debts incurred by the 
+business. If the business acquires debts, the creditors can go after the owner's 
+personal possessions. 
+
+The term is also often used to refer to a company. A company, on the other hand, 
+is a separate legal entity and provides for limited liability, as well as corporate 
+tax rates. A company structure is more complicated and expensive to set up, but offers 
+more protection and benefits for the owner.
+
+Finance
+
+Finance is a field that deals with the study of investments. It includes the dynamics 
+of assets and liabilities over time under conditions of different degrees of uncertainty 
+and risk. Finance can also be defined as the science of money management
+
+Maketing
+
+The term developed from the original meaning which referred literally to going to a 
+market to buy or sell goods or services. Marketing tactics include advertising as well 
+as determining product pricing.
+
+Sales
+
+Sales are activity related to selling or the number of goods or services sold in a 
+given time period. Sales are often integrated with all lines of business and are key 
+to a companies' success.
+
+Employment
+
+is a relationship between two parties, usually based on contract where work is paid 
+for, where one party, which may be a corporation, for profit, not-for-profit organization, 
+or other entity is the employer and the other is the employee. 
+Employees work in return for payment, which may be in the form of an hourly wage, by 
+piecework or an annual salary, depending on the type of work an employee does or which 
+sector they are working in. Employees in some fields or sectors may receive gratuities, 
+bonus payment or stock options. In some types of employment, employees may receive 
+benefits in addition to payment. Benefits can include health insurance, housing, 
+disability insurance or use of a gym. Employment is typically governed by employment 
+laws, organisation or legal contracts.
+
+
 
 # 8. Information Technology
 
@@ -403,22 +526,130 @@ TODO:
         If anyone of you doesn't use any social media raise your hand.No one.That says something.You use it why.For communicating with your friends?Because your children use it?Or because of the information you can get from there? These are all understandeble reasons why you would use such a thing.Let's take the oldest and still used today.Facebook by Mark Zuckerberk is the most popular. It has groups, pages around some theme where people add posts. and it has your page and it's friends. It is around year 2004 so like 16 years old. It collects your personal data and if you have it open it tracks what you browser for advertisement purposes.I don't really like it and I have all trackers and cookies blocked.Most of my age group moved to instagram as many older generation moved to facebook.Instagram on other hand is better as it only has pictures and messaging and My age group probably doesn't need any more of it.There is also messenger which everyone uses but it is separted from facebook as much as it can be.And people don't trust it, but use it which is funny.        
         
 # 9. Energy Sources
-//ROBIN
+
+
+They can be divided by type into fossil fuel, nuclear fuel and renewable resources.
+
+Fossil fuel
+-------------------------
+A fossil fuel is a fuel formed by natural processes, such as  decomposition of 
+buried dead organisms, containing organic molecules originating in ancient 
+photosynthesis that release energy in combustion. Such organisms and their resulting 
+fossil fuels typically have an age of millions of years, and sometimes more than 650 
+million years. Fossil fuels contain high percentages of carbon and include 
+petroleum, coal, and natural gas. Peat is also sometimes considered a fossil fuel. 
+Commonly used derivatives of fossil fuels include kerosene and propane. Fossil fuels 
+range from volatile materials with low carbon-to-hydrogen ratios, to liquids , to 
+nonvolatile materials composed of almost pure carbon. Methane can be found in 
+hydrocarbon fields alone, associated with oil.
+
+Coal
+
+Coal is the most abundant and burned fossil fuel. This was the fuel that launched 
+the industrial revolution and continued to grow in use; China, which already has many 
+of the world's most polluted cities, was in 2007 building about two coal-fired power 
+plants every week.6] Coal's large reserves would make it a popular candidate to meet 
+the energy demand of the global community, short of global warming concerns and other 
+pollutants.
+
+Natural gas
+
+Natural gas is a widely available fossil fuel. Improvements in technology and wide 
+exploration led to a major increase in recoverable natural gas reserves as 
+shale fracking methods were developed. At present usage rates, natural gas could 
+supply most of the world's energy needs for between 100 and 250 years, depending on 
+increase in consumption over time.
+
+Petroleum
+
+is a naturally occurring, yellowish-black liquid found in geological formations beneath
+the Earth's surface. It is commonly refined into various types of fuels. Components of 
+petroleum are separated using a technique called fractional distillation, i.e. separation 
+of a liquid mixture into fractions differing in boiling point by means of distillation, 
+typically using a fractionating column. It consists of naturally occurring hydrocarbons 
+of various molecular weights and may contain miscellaneous organic compounds. A fossil 
+fuel, petroleum is formed when large quantities of dead organisms, mostly zooplankton 
+and algae, are buried underneath sedimentary rock and subjected to both intense heat 
+and pressure.
+
+Nuclear energy
+-------------------------
+
+is material used in nuclear power stations to produce heat to power turbines. 
+Heat is created when nuclear fuel undergoes nuclear fission.
+
+Most nuclear fuels contain heavy fissile actinide elements that are capable of 
+undergoing and sustaining nuclear fission. When the unstable nuclei of these atoms 
+are hit by a slow-moving neutron, they split, creating two daughter nuclei and two 
+or three more neutrons. These neutrons then go on to split more nuclei. This creates 
+a self-sustaining chain reaction that is controlled in a nuclear reactor, or 
+uncontrolled in a nuclear weapon.
+
+Renewable resources
+-------------------------
+
+A renewable resource is a natural resource which will replenish to replace the 
+portion depleted by usage and consumption, either through natural reproduction or 
+other recurring processes in a finite amount of time in a human time scale. 
+Renewable resources are a part of Earth's natural environment and the largest 
+components of its ecosphere. A positive life cycle assessment is a key indicator of 
+a resource's sustainability.
+
+Solar energy
+
+Solar energy is radiant light and heat from the Sun that is harnessed using a range 
+of ever-evolving technologies such as solar heating, solar thermal energy, solar 
+architecture, molten salt power plants and artificial photosynthesis.
+
+It is an essential source of renewable energy, and its technologies are broadly c
+haracterized as either passive solar or active solar depending on how they capture 
+and distribute solar energy or convert it into solar power.
+
+Wind power
+
+is the use of wind to provide mechanical power through wind turbines to turn electric 
 
 # 10. The living environment and its protection
 
 ## Basic Definition
 
-        In my opinion I would define living environment as all nature, animals and all people and their actions to whetever they add or remove the level of health of the environment.
+         In my opinion I would define living environment as all nature, animals
+        and all people and their actions to whetever they add or remove the
+        level of health of the environment.Due to the pressure of overconsumption, population growth and tehcnology, the environemtn is being degraded, sometimes permanently.This has been recognized, however not that much as We would like to.Governments have begun placing restraints on activites that cause enviromental damage.Since 1960's movements have created more awareness of the multiple environmental problems. There is disagreement on the extent of the environmental impat of human activity, so protection measures are occasionally debated.
 
-## History of protecting environment
+## Covid-19 and it's impact on living environment
 
-## Everyday protection of envrironment
+        I think everyone took notice of improvmenet our home isolation brought.The air was cleaner by 17% of CO2 as people weren't so much driving.Animals on every part of world started coming to cities.Maybe it was because they weren't distracted by people or they were visiting but people finally saw it.I got to know one interesting word and I am really keen on discoreving if you know it.Do you know term Ecoccide?It means willingly causing or ordering the causing of widespread, long-term , severe damage to the natural environment.Ecoccide is not recognized as a punishable crime by the United Nations and is not part of International Law.
 
-## Greenpeace
+        Deforestation 2020: the year of fire.Our planet never experienced such increased wildfire rates and sizes of areas affected by fires. It first started with Indonesia and Australia.And it continued with Argentina, the Amazons and California. The fires have burnt 8.5 million hectares across six states, and it is estimated to lead to the deaths of more than one billion native animals.This is the highest recorded for the past 20 years.
+
+        As last well known: Plastic Pollution.Plastic has just been aroud for 100 years, and it is the most signifficant environmental impact of 2020.Another interesting fact by how much of face masks and gloves are disposed every month due to pandemic.Most gloves end up in our rivers and oceans, as there is no solution to recycle such items.On top of that, masks can be confounded with jellyfishses by turtles as it is their favourite food.Due to plastic beign cheeper the output of plastic food bowls and dishes is going to product 30% more than in year 2019.
+        
+        I have actually a story that shows this problem at incredible level.I have been on my first scuba diving holliday in Vrsar, Croatia.It gave me some lifechanging experience.Every dive from first to last I tried to separate from my group and with my dive buddy we collected plastics and every derbish we could found.Every dive our lifevests were full of plastic masks,bags, straws and bowls.It was disgusting.Even when we were freediving in our free time between dives we found plastic.Even at my first night dive I collected.This was a eye openner for me.It showed me how excuse me'fucked' up situation is.I can't image what is deeper in the ocean.Of course the taking anything from ocean or destroying corals holding them or posing with them for photo is prohibited.
+
+## Some everyday problems that we need to solve
+
+        Biggest envrironment problem is polution.It kills an estimated seven million people worldwide every year.The Air that we are breathing contains high levels of pollutants.Nine of ten people are breathing levels of polution that would not be considered safe by WHO.The main cause is by burning fossil fuels.Another reason is by using fertilizers and pesticides.They emit harmful chemicals into the air and can also cause water pollution.I'm sure that you heard that the one pesticide commonly used named Roundup is marked as cancer causitive.Which is really bad if you have garden or growing zones and you need to protect them from pest attacks.
+
+        The one of the outcomes from the air pollution and the climate going is the ice melting.It is long term problem and wildly known fact is that sea level is on 1mm per year.Which doesn't seem a lot but your children will already know the difference.
+
+        High level of wasting.You most probably waste.Everyone does it. It is normal that things that not have purpose anymore are thrown to trash.We don't think for another purpose of things and we are eager to spend more resources on things that could be with small effort changed to different function.For example jars from cucumbers could be used to store any kind of think to kitchen.I am not trying to say to store empty markers or used tea bags.I am trying to say that you should transform your homestead to 21st century of energy saving and minimal wastes.
+
+## Greenpeace and other movements
+
+        We have all kinds of movements from environmental protection.The well-known is Greenpeace who have been enganing this problem from 1970.Their first action was taking an old fisherman boat and going to Amchitka island that were used for nuclear bomb testing and was populated with endagered sea otters and home for many birds.They were forced back as soon as their entered the area by us navy ship but their voices had been heard and Island was later declared as bird sanctuary.One of the most famous causes have been for seal skin trade.In 1992 on Canadian new foundland island is having a skin seal pup seasons.It was massive killing of seals just for their skin.Greenpeace released the photo of them spraying the green paint on their skin which is environmental friendly and pup skins are nothing for skinners.
 
 ## Extremely protecting vs Modest protection
 
-## Extremist
+        No one can use every thing and don't product any trash or polution.If you think about it phylosophically every step you take in prague is producing polution.Every step on everything outside the park is going to damage the thing that will need repair after some years in which your steps helped it.If you think about it like this it can destroy you.Greenpeace is really extremist organization which is effective and people will always like group harm rich and powerfull.It is partyzain tactic and they have people voice. You can undergo some procedures which will improve it but you don't need it to master.
+
+## Extremist Ecoterrorism
+
+        I don't for anyone to cause chaos and damage anyone even if it is for future of our children and for better tommorows.You cannot do anything that way.These people are terrorists no matter the reason.That's the reason France sunked the Greenpeace boat during their first nuclear test to show their nuclear arsenal.The boat rainbow warrior was non repairable damaged and one photographer died.
+        The fault is on both sides in my honest opinion.You take risks doing illegal actions.The France navy shouldn't openned fire on unarmed ship but that ship had no permision for being in military space.
+
+## Conclusion
+
+        I try my best to don't throw out neccesery things and be energy efficient as possible.I am active in ocean protection groups and I am singing petitions on making ocean reservations for proteting marine life.In my dives I would like to focus in my life on helping with cleaning the ocean because everyone of us owns a piece of it.It is the price for living in civilization and each of you has to pay for it.One way or another.
 
 
