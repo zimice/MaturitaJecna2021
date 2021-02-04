@@ -653,3 +653,18 @@ is the use of wind to provide mechanical power through wind turbines to turn ele
         I try my best to don't throw out neccesery things and be energy efficient as possible.I am active in ocean protection groups and I am singing petitions on making ocean reservations for proteting marine life.In my dives I would like to focus in my life on helping with cleaning the ocean because everyone of us owns a piece of it.It is the price for living in civilization and each of you has to pay for it.One way or another.
 
 
+# 11. Travelling and transport
+
+        // ROBIN TYPES OF TRANSPORT
+        //TODO: CORONA-19 TRAVELLING SITUATION
+        //TODO: HALF
+
+# 12. Food and drink
+        //ROBIN
+# 13. Health
+        // TODO: 
+# 14. Housing
+        // ROBIN
+# 15. Money and shopping
+
+        // TODO:
