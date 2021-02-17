@@ -153,12 +153,16 @@ WINxxx je take textova reprezentace vyrobena microsoftem
 # 3. Aritmetické a logické operace v číslicovém počítači, logické funkce
 
 
-- uveďte -množiny čísel DES / BIN „přirozená“, „celá“, „racionální“, „iracionální“, formáty čísel „INTEGER“, „REAL“, „DOUBLE“ a kde se zpracovávají (celočíselná ALU, NEU z koprocesoru)
+### uveďte -množiny čísel DES / BIN „přirozená“, „celá“, „racionální“, „iracionální“, formáty čísel „INTEGER“, „REAL“, „DOUBLE“ a kde se zpracovávají (celočíselná ALU, NEU z koprocesoru)
+
+<br />  
+
 přirozená by se dala reprezentovat unsigned int,pro celá integer a proc racionální  a iracionální používame float a double.
 Double v C++ využívá dvojnásobného místa 64  bitů oproti floatu, ale má více místa na floating point tedy místa za čárkou.
 Tedy celočíselná čísla se zpracovávají aritmeticko logické jednotce a s desetinnou čárkou v floating point unit tedy v matematickém koprocesoru
 
--přehled aritmetických operací (+ - * /) v EU s celočíselnou ALU – sčítačka, násobička
+### přehled aritmetických operací (+ - * /) v EU s celočíselnou ALU – sčítačka, násobička
+<br />
 Binárně sčítat znamená pokud je tam jedna jednička je to jedna jestli obě čísla tak o řád nahoru
 Binárně odčítat znamená upravi menšitele na šířku menšence
 udělat doplněk menšitele což znamená negaci
@@ -327,21 +331,21 @@ kazdy bit pokud se neshoduji tak jedan
 
 - Logická neshodnost  XOR
 
-| A | B | XOR |
-|---|---|-----|
-| 0 | 0 | 0   |
-| 0 | 1 | 1   |
-| 1 | 0 | 1   |
-| 1 | 1 | 0   |
+| A   | B   | XOR |
+| --- | --- | --- |
+| 0   | 0   | 0   |
+| 0   | 1   | 1   |
+| 1   | 0   | 1   |
+| 1   | 1   | 0   |
 
 <br />
 
 - Logický doplněk Negace
 
-| A | A' |
-|---|----|
-| 0 | 1  |
-| 1 | 0  |
+| A   | A'  |
+| --- | --- |
+| 0   | 1   |
+| 1   | 0   |
 
 <br />
 
@@ -351,12 +355,12 @@ kazdy bit pokud se neshoduji tak jedan
   
 Jeho pravdivostní tabulka: 
 
-| A | B | NAND |
-|---|---|------|
-| 0 | 1 | 1    |
-| 0 | 1 | 1    |
-| 1 | 0 | 1    |
-| 1 | 1 | 0    |
+| A   | B   | NAND |
+| --- | --- | ---- |
+| 0   | 1   | 1    |
+| 0   | 1   | 1    |
+| 1   | 0   | 1    |
+| 1   | 1   | 0    |
 
 <br />
 
@@ -364,18 +368,69 @@ Důvod většího výskytu NANDu je z důvodu jednodušího zapojení než AND.
 
 Mezi kombinačními obvody najdeme krom těchto základních také NOR který má takovou to pravdivostní tabulku:
 
-| A | B | NOR |
-|---|---|-----|
-| 0 | 1 | 1   |
-| 0 | 1 | 0   |
-| 1 | 0 | 0   |
-| 1 | 1 | 0   |
+| A   | B   | NOR |
+| --- | --- | --- |
+| 0   | 1   | 1   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 0   |
 
 <br />
 
 Také můžeme použít pevné paměti na programování jednotlivých vstupů a na výstup nahrát danou hodnotu.
 
 # 5. Sekvenční obvody, jejich realizace, použíté klopné obvody
+
+## Využití sekvenčních obvodů
+
+<br />
+
+### Definice
+  
+    Sekvenční obvod se liší od kombinačního nezávislostí na okamžité hodnotě signálu.U sekvečního nám nezáleží na hodnotách na hradlo vstupovanými dokud nepřepneme signál CLK = synchonizační impuls do logické jedničky.Tím získáváme obvod, který je schopen si zapamatovat stav(obsahují pamět).
+
+## Rozdělení
+
+<br /> 
+
+### Synchronní
+
+<br />
+
+    Je zaveden řídící synchronizační signál(hodinový signál, hodiny). Změna vstupní proměnné se promítne do stavu sekvenčního obvodu až při příchodu hodinového signálu.
+
+### Asychronní
+
+    se změna vstupní proměnné promítne ihned do stavu sekvenčního obvodu
+
+### Monostabilní klopné obvody
+
+    mají pouze jeden ustálený stav, tzn., že po aktivacije výstup po určitou dobu v opačném, než ustáleném stavu. Lze je použít např. pro
+    časovače, ošetření zákmitu kontaktů atd.
+
+### Bistabilní klopné obvody
+
+    mají dva možné ustálené stavy, tzn., že v libovolném z nich může zůstat libovolnou dobu. Lze je použít např. jako paměť, tvoří i základ složitých sekvenčních obvodů - čítače atd. Nejčastěji se setkáváme s typy RS, RST, D,JK buď v podobě integrovaného obvodu, nebo v podobě funkčních bloků v programovacích schématech programovatelných automatů.
+
+### Astabilní klopné obvody
+
+    nemají ustálený stav, jejich výstup se stále přepíná mezi logickou nulou a jedničkou. Lze je použít jako generátory obdélníkového signálu,např. jako zdroj hodinového kmitočtu.
+
+
+## Typy obvodů
+
+### D
+
+
+![](images/d-flip-flop.png)
+
+
+### JK
+
+### SR
+
+## Realizace sekvenčního obvodu
+
 
 # 6. Programovatelné logické obvody
 
