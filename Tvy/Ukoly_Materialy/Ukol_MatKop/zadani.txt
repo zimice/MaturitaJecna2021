@@ -1,0 +1,21 @@
+Dobrý den,
+posílám vám dú z EP, který odevzdáte nejpozději do 1.3.2021 do 18 hod. Úkol má jako celá otázka 2 části
+    a)na 2strany strojopisu si připravte hlavní body mat.otázky
+     b)převeďte určené číslo (je v příloze pro každého žáka) 
+a vyřešený příklad odevzdejte 
+     a) ve vyplněné tabulce zpět v příloze mailu
+     b) napište do mailu každou kolonku a její hodnoty
+Odevzdávat můžete i po jednotlivých příkladech během prázdnin.
+
+Matematický koprocesor / FPU, kódování čísel v FPU
+
+I.-Pojem koprocesor, vazba a spolupráce s hlavním procesorem, porovnání instrukcí pro FPU a procesor, formáty dat v matematickém koprocesoru. Blokové schéma FPU, registry, řízení módu pomocí CW a SW a průběh výpočtu. Spolupráce FPU s Cache pamětí. 
+
+
+Matematický koprocesor / FPU, kódování čísel v FPU
+
+II.-Příklad převodu reálného čísla do ShortRealu (reálné desítkové – reálné dvojkové – ShortReal 32b)
+
+
+
+Zároveň posílám podrobně rozepsaná maturitní témata, také v příloze (pouze pro C4b)

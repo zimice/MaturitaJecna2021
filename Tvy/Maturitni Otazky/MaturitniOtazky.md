@@ -434,9 +434,48 @@ Také můžeme použít pevné paměti na programování jednotlivých vstupů a
 
 # 6. Programovatelné logické obvody
 
+## Definice programovatelných hradel
+
+    Jedná se o číslicové obvody, jejichž logická funkce může být programována uživatelem. Jakákoliv logická funkce lze vyjádřit jako součet součinů booleovských proměnných.Jedná se o skládání AND, OR , propojovacích polí, invertorů a klopných obvodů.
+
+## Historie PLD
+
+    Historie je v prvních v pamětech typu PROM, kte
+
 # 7. Mikrořadiče (MCU), jeho struktura, význačné integrované periferie
 
 # 8. Program, programovací jazyky, příkaz, instrukce, druhy adresování, skoky
 
 # 9. Mikroprocesor v reálném režimu, adresování LA a FA
 
+# 10. Chráněný režim operační paměti, adresování LA a FA
+
+# 11. Stránkování OP, virtuální pamět, princip přenosu DMA
+
+# 12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
+
+# 13. Přerušení a jeho průběh, předání řízení, průběh instrukce volání
+
+# 14. Matematický koprocesor / FPU, kódování čísel v FPU
+
+# 15. Vývoj procesorů od Pentia do současnosti
+
+# 16. Struktura osobního počítače (stolní, přenosný), popis základní desky 
+
+# 17. Princip monitoru, typy grafických adapterů, kódování souborů
+
+# 18. Digitalizace zvuku, zvukové adaptery a soustavy, kódování soubor
+
+# 19. Vnitřní paměti osobního počítače a jejich provedení, vyrovnávací paměti v procesor
+
+# 20. Vnější paměti osobního počítače, fyzické a logické uspořádání dat
+
+# 21. Nemagnetické nosiče informace pro osobní počítače, uspořádání dat 
+
+# 22. Vstupní a výstupní zařízení osobních počítačů
+
+# 23. Tiskárny pro osobní počítače, používaná rozhraní osobního počítače 
+
+# 24. Ochrana a zabezpečení dat 
+
+# 25. Start počítače, operační systém a jeho zaveden

@@ -235,3 +235,10 @@ Absolutne nvm.
 
 # 4. Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client/Server
 
+//TODO: 
+
+# Konstanty, Statické metody a vlastnosti, Anonymní metody (Lambda), Ukazatel na metodu (delegát) 
+
+# Principy objektového programování, agregace a kompozice objektů
+
+# Soubory a serializace Stringy, regulární výrazy, parsování textu, kódování
