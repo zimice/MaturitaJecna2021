@@ -442,7 +442,93 @@ Také můžeme použít pevné paměti na programování jednotlivých vstupů a
 
     Historie je v prvních v pamětech typu PROM, kte
 
+## Přehled programovatelných obvodů
+
+## logický obvod a jeho odvození z pravdivostní tabulky (mintermy, maxtermy) nebo z diagramu
+
+## Pojmy: PLA PAL GAL, CPLD …. makrocell, programování výstupů. 
+
 # 7. Mikrořadiče (MCU), jeho struktura, význačné integrované periferie
+
+## Harvardská Koncepce ČP 
+
+    Mikrořadiče jsou z hardwarového hlediska hardvardskou architekturou, jelikož zakomponovávají procesor, pamět, i/o periferie atd.
+
+![](images/HarvardKoncepce.png)
+
+    
+<br />
+
+## blokové schéma MCU a jeho CPU
+
+![](images/microcontrollerScheme.jpg)
+
+### Mikrořadič minimálně obsahuje:
+- CPU /mikroprocesor/, 
+- generátor hodinového signálu CLK, 
+- paměťový subsystém  
+- V/V subsystém. 
+
+Dále jsou běžně přítomny: 
+
+- čítače (pro práci v reálném čase), 
+- sériový port, I2C sběrnice, SPI rozhraní,
+- řadič přerušení, 
+- ale i A/D převodníky s multiplexory, D/A převodníky, obvody logického řízení a řízení spotřeby atd.  
+
+
+## výrobci + architektury MCU
+
+### Architektury MCU
+
+Vývoj systému s MCU staví návrháře před protichůdné požadavky, které nabízí dvě možnosti řešení:
+
+1) k mikrořadiči připojit z vnějšku rozšiřující sběrnici s potřebnými obvody
+   
+2) mikrořadič rozšířit uvnitř, tj. vytvořit nový čip – klon, derivát, který nově zahrne původní mikrořadič a navíc i ty pomocné obvody, které vyžaduje aplikace. 
+   
+Zásadní rozdíl proti variantě
+
+1) rozšíření „vnější sběrnice“ je v tom, že při rozšiřování na „vnitřní sběrnici“ nedochází k ome­zování funkcí vývodů MCU (např. paralelních portů) a tím k deklasování jeho výhod. Rozšiřování na vnitřní sběrnici 
+   
+2) je ovšem v možnostech jen výrobců MCU.Ti však produkují stále větší počet takto zdokonalených typů, se složením zřetelně orientovaným na určité aplikace, ale se zachováním plné instrukční kompatibility s původním typem MCU. 
+
+### Výrobci
+
+- Nejznámnějším výrobcem v současti je Firma Microchip, jelikož koupila firmu Atmel, která produkuje světově známé mikrokontroléry řady Atmega, jenž jsou používané v deskách Arduino a jejích klonech.
+  
+- Další známé firmy jsou STMicroelectronics, kteří výrazně více produkují 32bit mcu, jenž nabízejí daleko větší výpočetní výkon.Jejich sady, ale nejsou tak zdokumentované pro veřejnost, ale nemůžeme říct, že by se o to STM snažilo.
+  
+- Texas Instruments s bohatou historií stojí za zmínku
+
+## charakteristiky a parametry
+
+### Charakteristiky MCU
+
+Rozlišujeme podle:
+
+- Bitové architektury
+- Počet vstupů/výstupů
+- Frekvence krystalu
+- Ceny
+
+#### Bitová architektura
+
+#### Počet vstupů/výstupů
+
+#### Frekvence krystalu
+
+#### Cena
+
+### Paramertry MCU
+
+## integrované periférie + jejich přehled
+
+## technologická realizace a módy periférií (nastavení či programování módu a registry Control a Status)
+
+## přerušovací systém
+
+## Programování MCU (programovací jazyky, vývojové prostředí, asembler, instrukce)
 
 # 8. Program, programovací jazyky, příkaz, instrukce, druhy adresování, skoky
 
