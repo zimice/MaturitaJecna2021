@@ -659,7 +659,7 @@ d) 2 * 32b. ukazatelé výjimek – registr Adresa IP je ukazatel instrukce v O
 
 ## Spolupráce FPU s Cache pamětí
 
-FPU potřebuje na náročné výpočty ukládat mezi výpočty do mezipaměti aby docházelo k efektivním výpočtům a koprocesor mohl úlohu rozkouskouvat na malé kousky.V materiálech jsem nenašel k tomuto bodu dostatek materiálů
+FPU potřebuje na náročné výpočty ukládat mezi výpočty do mezipaměti aby docházelo k efektivním výpočtům a koprocesor mohl úlohu rozkouskouvat na malé kousky.V materiálech jsem nenašel k tomuto bodu dostatek materiálů.
 
 ## Příklad převodu reálného čísla do ShortRealu (reálné desítkové – reálné dvojkové – ShortReal 32b)
 
@@ -693,6 +693,20 @@ Máme po převodu z 10 -> 2 sosutavy znaménkové číslo racionální
     Tato 1 je "skrytý bit, který vygeneruje NEU!!!
 
 # 15. Vývoj procesorů od Pentia do současnosti
+
+## Zavedení superskalárních a hyperskalárních procesorů
+
+## Víceúrovňové Cache paměti
+
+## Paralelní ALU a předvídání skoků + možné kolize
+
+## Jednotka MMX a její instrukce
+
+## RISC mikroinstrukce od PeII a dynamické spouštění instrukcí 
+
+## Flashování mikrokódu procesoru
+
+## Vývoj procesoru s 64b architekturou (HyperThreading, core, Cache, …).
 
 # 16. Struktura osobního počítače (stolní, přenosný), popis základní desky 
 
