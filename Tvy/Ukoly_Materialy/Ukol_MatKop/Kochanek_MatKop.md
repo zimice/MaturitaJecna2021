@@ -7,7 +7,7 @@ fontsize: 12pt
 
 <style type="text/css">
   body{
-    font-size: 17px;
+    font-size: 14px;
   }
 </style>
 

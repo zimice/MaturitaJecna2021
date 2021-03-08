@@ -532,6 +532,58 @@ Rozlišujeme podle:
 
 # 8. Program, programovací jazyky, příkaz, instrukce, druhy adresování, skoky
 
+
+## Program
+
+    Jedná se o posloupnost instrukcí, která popisuje realizaci dané úlohy počítačem.Zápisem algoritmu v programovacím jazyce vytváříme program.Zdrojový kód může být přeložen překladačem do strojového kódu, který je pak přímo vykonáván procesorem, nebo je zdrojový kód vykonáván interpretem.Každý program musí mít začátek nesmí obsahovat syntaktické chyby nebo nebude fungovat správně a musí obsahovat konec jinak se může stát, že program nikdy neskončí nebo vychybuje.
+
+### Mezi tím, jak se programovalo před 40ti lety a jak se programuje dnes, je velký rozdíl.
+
+1. ### Strojový kód
+    
+    Jedná se program, jenž je souborem instrukcí, kde jsme nemáme žádnou možnost pojmenovávat proměnné nebo zadávat matematické výrazy.
+
+2. ### Nestrukturované paradigma
+
+    Nestrukturovaný přístup je podobný assemblerům, jedná se o soubor instrukcí, který se vykonává odshora dolů. Zdrojový kód již nebyl závislý na hardwaru a byl lépe čitelný pro člověka, přístup na nějakou dobu umožnil vytvářet komplexnější programy. Bylo tu však stále mnoho úskalí: Jediná možnost, jak udělat něco vícekrát nebo jak se v kódu větvit, byl příkaz GOTO .
+
+3. ### Strukturované paradigma
+
+
+    Strukturované programování je první paradigma, které se udrželo delší dobu a opravdu chvíli postačovalo pro vývoj nových programů. Programujeme pomocí cyklů a větvení. To je v podstatě to, kam jsme se doteď dostali.
+
+    Program lze rozložit do funkcí (metod). U strukturovaného programování hovoříme o tzv. funkcionální dekompozici. Problém se rozloží na několik podproblémů a každý podproblém potom řeší určitá funkce s parametry. Nevýhodou je, že funkce umí jen jednu činnost. Neexistuje totiž způsob, jak vzít starý kód a jen trochu ho modifikovat, musíme psát znovu a znovu - vznikají zbytečné náklady a chyby. Tuto nevýhodu lze částečně obejít pomocí parametrizace funkcí (počet parametrů poté ale rychle narůstá) nebo použitím globálních proměnných. S globálními daty vzniká však nové nebezpečí - funkce mají přístup k datům ostatních.Celý program se potom skládá z nezapouzdřených bloků kódu a špatně se udržuje.
+
+## Používané programovací jazyky
+
+## Python
+
+        
+
+## Javascript
+
+## Java
+
+## C++
+
+## C
+
+## Proces a řízení procesoru
+
+## programové konstrukce (ukázka příkladu)
+
+## datové konstrukce (ukázka příkladu)
+
+## příkazy + srovnání s instrukcemi. 
+
+## symbolická instrukce
+
+## instrukční sada
+
+## Způsoby adresování v instrukci
+
+## Nepodmíněný a podmíněný skok
+
 # 9. Mikroprocesor v reálném režimu, adresování LA a FA
 
 # 10. Chráněný režim operační paměti, adresování LA a FA
@@ -540,7 +592,7 @@ Rozlišujeme podle:
 
 # 12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
 
-# 13. Přerušení a jeho průběh, předání řízení, průběh instrukce volání
+# 13. Přerušení a jeho průběh, předání řízení, průběh instrukce volá-ní
 
 
 # 14. Matematický koprocesor / FPU, kódování čísel v FPU
