@@ -6,9 +6,9 @@ fontsize: 12pt
 ---
 
 <style type="text/css">
-  body{
-    font-size: 16px;
-  }
+body{
+    font-size: 12pt;
+}
 </style>
 
 # 1. Koncepce a architektura číslicových počítačů
@@ -72,14 +72,15 @@ A samozřejmě se také tento systém nejlépe ukládá na magnetické a optick�
 
 ## převod celého čísla DES do čísla BIN /pomocí dělení/
 
-Příklad  71 desítkově. 71/2 = 35 jelikoz je se zbytkem tak 1
-35/2 17 jelikoz je se zbytkem tak 1 <br />
-17/2 8 jelikoz je se zbytkem tak 1 <br />
-8/2 = 4 jelikoz je beze zbytku tak 0 <br />
-4/2 = 2 jelikoz je beze zbytku tak 0 <br />
-2/2 = 1 jelikoz je beze zbytku tak 0 <br />
-1/2 = jelikoz je se zbytkem tak 1 <br />
-a vezme to odspoda <br />
+Příklad  71 desítkově.  
+71/2 = 35 jelikoz je se zbytkem tak 1
+35/2 17 jelikoz je se zbytkem tak 1  
+17/2 8 jelikoz je se zbytkem tak 1  
+8/2 = 4 jelikoz je beze zbytku tak 0  
+4/2 = 2 jelikoz je beze zbytku tak 0  
+2/2 = 1 jelikoz je beze zbytku tak 0  
+1/2 = jelikoz je se zbytkem tak 1  
+a vezme to odspoda  
 71 desitkove je 01000111 dvojkove
 
 ## převod necelého - reálného čísla BIN do čísla DES /pomocí mnohočlenu/
@@ -93,8 +94,8 @@ nula krát dva na šestou + nula krát dva na sedmou což se rovná 21 desítkov
 
 například čislo 183 desítkově
 
-128  64  32  16  8  4  2  1 <br />
-1    0    1  1   0  1  1  1
+128  64  32  16  8  4  2  1  
+1 &nbsp;&nbsp;&nbsp;   0 &nbsp;  1 &nbsp; 1 &nbsp;  0  1  1  1
 
 10110111 dvojkově
 
@@ -558,30 +559,96 @@ Rozlišujeme podle:
 
 ## Python
 
-        
+        Python je interpretovaný, vysoko úrovňový programovací jazyk, jenž je veřejně známý jakožto nejjednoduší a zároveň používaný i u obtížných úloh.
+        Jeho filozofie si zadává za cíl jednoduchou orientaci v textu v koleraci s významným odsazováním.
+        Využívá objektově orientovaný přístup, aby pomáhal programátorům psát čistý, jednoduchý,logický kód na psaní malých a velkých programů.
+        Python program probíhá dynamicky a obsahuje garbage collector.
+        Nedávno uveřejnění mikrokontrolér Rpi Pico je v základu inzerován s použítím MicroPythonu se soustředěním na začínající programátory.
+        Jelikož je snad s těcho jazyků python nejvýše, vyplňuje nesmyslně moc času zpracováváním jednoho primitivního příkazu a to se negativně jeví na chodu programu.
 
 ## Javascript
 
+        S počátky už od roku 1995 jako skriptovací jazyk pro jeden z prvních webových prohlížečů Mosaic, se datuje Javascript.
+        Jedná se také interpetovaný jazyk, jenž je používaný na webových stránkách na stylizaci a efekty stránky.Jedná o tzv. Frontend.
+        Javascript je také možno používat velice dobře na backend zvaný Node.js na kterém je možné stavět webový server, REST API, atd.
+        Javascript potažmo Node.js klade důraz už sám na více vláknové programování a proto je rychlejší než python ve všech ohledech.
+        Většina prohlížečů má svůj engine na zpracování Javascriptu.
+
 ## Java
+
+        Programovací jazyk, který si zakládá na třídách, a objektově-orientovanému programování.
+        Vývíjen společností Oracle, vytvořen ve stejnou dobu jako Javascript. S myšlenkou napsat jednou program a umožnit jeho běh na jakémkoliv zařízení.
+        Zkompilovaný kód může běžet na jaké koliv platformě, která Javu podporuje bez jakékoliv rekompilace.
+        Kód býva typicky v bytekódu a ten poběží na jakémkoliv Java virtual machine s irelevantostí na jaké počítačové architektůře poběží.
+        Java runtime umožňuje dynamicky odkazovat a upravovat běžící kód.Dle Githubu byla Java za rok 2019 nejvíce používaný jazyk.
+        
 
 ## C++
 
+        S úmyslem vytvořit dodatek k C vznikl jazyk C++.Moderní C++ nabízí OOP, generika a funkcové možnosti, ale stále nabízí výhody C,
+        jakožto manipulaci s pamětí a uklízení si paměti.C++ je široce používaný jazyk a je s ním psáno ve všech odvětvích.
+        Hry, serverové aplikace, desktopové aplikace, a výkonostní-kritické aplikace.Nevyužívá garbage collector a je kompilován kompilátorem.
+        Je hojně používán u mikrořadičů jako STM32 a Arduino, které k tomu využívá knihovnu Wiring.
+
 ## C
+
+        Jazyk C je nejnižší jazyk s čitelností dnešních programovacích jazyků.Vyvinut v roce 1972 Dennisem Ritchie, jenž je také otcem Unixu,
+        se tento jazyk stále používá u Linuxu, kernelů, a mikrokontrolérů.Je využíván jak zařízeními se 8bit architekturou tak Superpočítači.
+        Napsat program v C je dosti složíté, jelikož musí programátor udělat většinu práce sám.V C je napsán Linux díky Linusu Torvaldosi.
+        Tento jazyk má také spousty kompilátorů nabízených např. IBM, Microsoft atd.Tento jazyk nemá konkurenci v exekučním čase.
+        Na algoritmizaci a zpracování dat neexistuje lepší konkurence, pokud si můžeme dovolit strávit většinu času psaním programu.
 
 ## Proces a řízení procesoru
 
-## programové konstrukce (ukázka příkladu)
+
+
+## Programové konstrukce (ukázka příkladu)
+
+
+```c
+
+#include <stdio.h>
+
+int main(){
+
+}
+
+```
 
 ## datové konstrukce (ukázka příkladu)
 
-## příkazy + srovnání s instrukcemi. 
+```java
+
+    public class Item{
+        private int id;
+        private String nazev;
+
+        public Item(String nazev,int id){
+            this.nazev=nazev;
+            this.id=id;
+        }
+    }
+    
+```
+
+## příkazy + srovnání s instrukcemi
+
+```nasm
+
+    MOV EAX, 7
+    MOV R8, 4
+    ADD EAX, R8
+    MOV R9, 2
+    SUB EAX, R9
+
+```
 
 ## symbolická instrukce
 
 ## instrukční sada
 
 ## Způsoby adresování v instrukci
-
+x
 ## Nepodmíněný a podmíněný skok
 
 # 9. Mikroprocesor v reálném režimu, adresování LA a FA

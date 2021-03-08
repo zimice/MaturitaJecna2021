@@ -28,7 +28,7 @@ měnit adresové hodnoty a přepisovat si pamět programu a implementovat garbag
 - Kód:
 
 ```java
-    class Osoba {
+public class Osoba {
     int vek;
     String jmeno;
 
@@ -40,7 +40,7 @@ měnit adresové hodnoty a přepisovat si pamět programu a implementovat garbag
 
 public class OsobaBuilder {
 
-    public static vovek main(String[] args) {
+    public static void main(String[] args) {
         int vek = 23;
         String jmeno = "John";
         String jmeon = new String("John");
