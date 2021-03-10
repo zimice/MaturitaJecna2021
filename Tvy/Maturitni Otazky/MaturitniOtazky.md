@@ -453,6 +453,119 @@ kazdy bit pokud se neshoduji tak jedan
 
 # 4. Kombinační obvody, jejich realizace z pravdivostní tabulky
 
+### Pravdivostní tabulky logických funkcí
+
+        Logická funkce je funkce, která pro konečný počet vstupních parametrů vrací logické hodnoty.
+
+        - Logický průnik AND
+
+        A    B    AND 
+        0    0    0   
+        0    1    0   
+        1    0    0   
+        1    1    1   
+
+        <br />
+
+        - Logické sjednocení OR
+
+        A    B    OR  
+        0    0    0   
+        0    1    1   
+        1    0    1   
+        1    1    1   
+
+        <br />
+
+        - Logická neshodnost  XOR
+
+        A    B    XOR 
+        0    0    0   
+        0    1    1   
+        1    0    1   
+        1    1    0   
+
+        <br />
+
+        - Logický doplněk Negace
+
+        A    A'  
+        0    1   
+        1    0   
+
+### Kombinační obvody
+
+        Jedná se o takové logické obvody, ve kterých stavy na výstupech závisí pouze na okamžitých kombinacích vstupních proměnných a nezávisí na jejich předchozích hodnotách.
+
+    KO nemají žádnou pamět předchozích stavů, takže kombinaci vstupních parametrů odpovídá jediná výstupní kombinace
+
+    Nejdostupnějším kombinačním obvodem je NAND, neboli známé hradlo 74HC00.Existuje dvou vstupové až osmivstupové ale nikoli liché číslo.
+  
+        Jeho pravdivostní tabulka:  
+
+        A    B    NAND 
+        0    1    1    
+        0    1    1    
+        1    0    1    
+        1    1    0      
+  
+### Metoda normálních forem
+
+    Jsme tím schopni zapsat a zjednodušit zápis logické funkce.
+
+    Formy:
+
+- součtová (Součet mintermů)
+
+    Jedná se o součet součinů
+    a*b*c + a*b*c^....
+
+- součinová (Součin maxtermů)
+    Jedná se o součin součtů
+    (a+b+c) * (a+b+c^)
+
+### Boolova algebra a zákony
+
+    Skládá se z proměných(X,Y), konstant (1,0) a operací (+,-) a negace (^)
+
+1. Komutativní zákon
+   
+    x+y = y+x  x*y = y*x
+
+2. Asociativní zákon
+   
+    (x+y)+z = x+(y+z)  (x*y)*z = x*(y*z)  
+3. Distributivní zákon
+   
+    x*(y+z) = (x*y)+(x*z)  x+(y*z) = (x+y)*(x+z)
+4. Zákon o neutrálnosti
+   
+    x+0 = x     x*1 = x
+5. Zákon o agresivitě
+   
+    x+1 = 1   x*1 = x
+6. zákon o idempotenci
+
+    x+x = x  x*x = x
+7. Zákon absorpce
+   
+   x+x*y = x   x*(x+y) = x
+8. Zákon absorbce negace
+   
+   x + ^x *y = x+y    x*(^x+y) = x*y
+9.  Zákon dvojí negace
+    
+    ^^x = x
+10. De Morganův zákon
+    
+    ^(x+y) = ^x*^y   ^(x*y) = ^x+^y
+
+### Reprezentace log. 1 a 0 pomocí napětí
+
+    Ve elektrotechnických výpočetních zařízeních se používá jako nositel informace obvykle elektrické napětí.Informace jsou kódováný binárně používají se dvě napěťové úrovně.Vysoká úroveň je napětí blízke napájecímu Vdd.Nízká úroveň se obvykle blíží 0 voltům(referenční zem, GND).
+    
+    Hodnoty se líší podle typu použitých obvodů.Obvykle se používá stejnosměrné napětí v řádu několika vltů.V silno
+
 ## Pravdivostní tabulky logických funkcí
 
 - Logický průnik AND
