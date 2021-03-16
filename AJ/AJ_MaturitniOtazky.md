@@ -662,9 +662,32 @@ is the use of wind to provide mechanical power through wind turbines to turn ele
 # 12. Food and drink
         //ROBIN
 # 13. Health
-        // TODO: 
+
+## Overview
+
+        Our health consists of one thing that is the most precious thing we own.It affects us, it controls us, and we behave as we are feeling.We were given only once the health if you are not offended by this statement.
+
+## How to care about health
+
+        In order to be healthy and to constantly improve your health you should exercise regularly, increase constantly your trainings, and eat helthy.Even the best can't last a diet.Diets are scientficilly proven to not work, because we cannot hold up to them.It's funny when someone decisively states that he is on the diet.He can't last.To move somewhere.Metabolism is an interesting thing.It's ability to burn fat.From our predecesors we have an ability to store fat for immidiet use and for worse times.Some of us have to exercise regularly and primarily cardio to stay slim.It's genetic if you have slow or fast metabolism.You can't do something about it.You can increase the burn rate by cardio after workout and regular cardio.Also at least 10000 steps per day helps it.You can also slow you metabolism.If you intentionally slow it by holding breaths or slowing your heart rate.For example free divers have big health problems with this and also brain damage in included.
+
+## Some common health problems in our population
+
+        Let's face it the overweight is the biggest problem not talking about Covid-19 as I am sure you dont want to hear it, because you heard it and will hear it. Second biggest problem is high blood pressure.I won't mention addictions, that's completely different subject. I don't really wish to speak about this problem.You know all things we should and shouldn't. With High blood pressure it is complicated, it's mostly chronical or made by smoking/alcohol.These are logical population problems and it could be worse.More illnesses and less vaccinations.
+
+## First aid
+
+        Everyone should know the basics of CPR. Perform heart resuscitaion or make breathing possible.
+
 # 14. Housing
         // ROBIN
 # 15. Money and shopping
 
-        // TODO:
+## Principals of money
+
+## How to make it
+
+## Entreprenuarship
+
+## What can money buy and what not
+
