@@ -1,3 +1,4 @@
+
 #### 1. Koncepce a architektura číslicových počítačů
 
 #### 2. Zobrazení údajů v číslicovém počítači, kódování
@@ -28,7 +29,7 @@
 
 #### 15. Vývoj procesorů od Pentia do současnosti
 
-#### 16. Struktura osobního počítače (stolní, přenosný), popis základní desky 
+#### 16. Struktura osobního počítače (stolní, přenosný), popis základní desky
 
 #### 17. Princip monitoru, typy grafických adapterů, kódování souborů
 
@@ -38,12 +39,12 @@
 
 #### 20. Vnější paměti osobního počítače, fyzické a logické uspořádání dat
 
-#### 21. Nemagnetické nosiče informace pro osobní počítače, uspořádání dat 
+#### 21. Nemagnetické nosiče informace pro osobní počítače, uspořádání dat
 
 #### 22. Vstupní a výstupní zařízení osobních počítačů
 
-#### 23. Tiskárny pro osobní počítače, používaná rozhraní osobního počítače 
+#### 23. Tiskárny pro osobní počítače, používaná rozhraní osobního počítače
 
-#### 24. Ochrana a zabezpečení dat 
+#### 24. Ochrana a zabezpečení dat
 
 #### 25. Start počítače, operační systém a jeho zaveden
