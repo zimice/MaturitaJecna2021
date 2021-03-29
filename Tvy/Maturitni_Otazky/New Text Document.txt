@@ -1,0 +1,16 @@
+---
+author: "Šimon Kochánek"
+date: "21/3/2021"
+output: pdf_document
+fontsize: 10.5pt
+---
+
+<style type="text/css">
+  body{
+    font-size: 10.5pt;
+  }
+</style>
+
+# 12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
+
+        
