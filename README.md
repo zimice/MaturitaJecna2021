@@ -16,7 +16,7 @@
 
 7. ~~Mikrořadiče (MCU), jeho struktura, význačné integrované periferie~~
 
-8. Program, programovací jazyky, příkaz, instrukce, druhy adresování
+8. ~~Program, programovací jazyky, příkaz, instrukce, druhy adresování~~
 
 9. Mikroprocesor v reálném režimu, adresování LA a FA
 
