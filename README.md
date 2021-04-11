@@ -18,7 +18,7 @@
 
 8. ~~Program, programovací jazyky, příkaz, instrukce, druhy adresování~~
 
-9. Mikroprocesor v reálném režimu, adresování LA a FA
+9. ~~Mikroprocesor v reálném režimu, adresování LA a FA~~
 
 10. Chráněný režim operační paměti, adresování LA a FA
 
