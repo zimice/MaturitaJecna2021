@@ -20,7 +20,7 @@
 
 9. ~~Mikroprocesor v reálném režimu, adresování LA a FA~~
 
-10. Chráněný režim operační paměti, adresování LA a FA
+10. ~~Chráněný režim operační paměti, adresování LA a FA~~
 
 11. Stránkování OP, virtuální pamět, princip přenosu DMA
 
@@ -32,7 +32,7 @@
 
 15. Vývoj procesorů od Pentia do současnosti
 
-16. Struktura osobního počítače (stolní, přenosný), popis základní desky
+16. ~~Struktura osobního počítače (stolní, přenosný), popis základní desky~~
 
 17. ~~Princip monitoru, typy grafických adapterů, kódování souborů~~
 
