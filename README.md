@@ -38,7 +38,7 @@
 
 18. ~~Digitalizace zvuku, zvukové adaptery a soustavy, kódování soubor~~
 
-19. Vnitřní paměti osobního počítače a jejich provedení, vyrovnávací paměti v procesor
+19. ~~Vnitřní paměti osobního počítače a jejich provedení, vyrovnávací paměti v procesor~~
 
 20. Vnější paměti osobního počítače, fyzické a logické uspořádání dat
 
