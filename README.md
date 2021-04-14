@@ -40,7 +40,7 @@
 
 19. ~~Vnitřní paměti osobního počítače a jejich provedení, vyrovnávací paměti v procesor~~
 
-20. Vnější paměti osobního počítače, fyzické a logické uspořádání dat
+20. ~~Vnější paměti osobního počítače, fyzické a logické uspořádání dat~~
 
 21. Nemagnetické nosiče informace pro osobní počítače, uspořádání dat
 
