@@ -42,7 +42,7 @@
 
 20. ~~Vnější paměti osobního počítače, fyzické a logické uspořádání dat~~
 
-21. Nemagnetické nosiče informace pro osobní počítače, uspořádání dat
+21. ~~Nemagnetické nosiče informace pro osobní počítače, uspořádání dat~~
 
 22. Vstupní a výstupní zařízení osobních počítačů
 
