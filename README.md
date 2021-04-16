@@ -44,7 +44,7 @@
 
 21. ~~Nemagnetické nosiče informace pro osobní počítače, uspořádání dat~~
 
-22. Vstupní a výstupní zařízení osobních počítačů
+22. ~~Vstupní a výstupní zařízení osobních počítačů~~
 
 23. Tiskárny pro osobní počítače, používaná rozhraní osobního počítače
 
