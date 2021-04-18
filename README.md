@@ -46,7 +46,7 @@
 
 22. ~~Vstupní a výstupní zařízení osobních počítačů~~
 
-23. Tiskárny pro osobní počítače, používaná rozhraní osobního počítače
+23. ~~Tiskárny pro osobní počítače, používaná rozhraní osobního počítače~~
 
 24. ~~Ochrana a zabezpečení dat~~
 
