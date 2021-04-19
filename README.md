@@ -50,7 +50,7 @@
 
 24. ~~Ochrana a zabezpečení dat~~
 
-25. Start počítače, operační systém a jeho zaveden
+25. ~~Start počítače, operační systém a jeho zaveden~~
 
 ## PV:
 
