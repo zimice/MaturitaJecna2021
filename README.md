@@ -54,7 +54,7 @@
 
 ## PV:
 
-1. Adresování a správa paměti Garbage collector
+1. ~~Adresování a správa paměti Garbage collector~~
 
 2. Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
 
