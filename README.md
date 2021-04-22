@@ -58,7 +58,7 @@
 
 2. Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
 
-3. Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministky
+3. ~~Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministky~~
 
 4. Architectural design patterns - MVC, Multitier, Monolithic, Client/Server
 
