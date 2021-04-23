@@ -56,7 +56,7 @@
 
 1. ~~Adresování a správa paměti Garbage collector~~
 
-2. Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
+2. ~~Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení~~
 
 3. ~~Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministky~~
 
