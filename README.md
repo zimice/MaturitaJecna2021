@@ -82,7 +82,7 @@
 
 14. Metodiky a životní cyklus vývoje softwaru
 
-15. Principy objektového programování, agregace a kompozice objektů
+15. ~~Principy objektového programování, agregace a kompozice objektů~~
 
 16. Rozhraní, dědičnost, abstraktní třídy a přetěžování
 
