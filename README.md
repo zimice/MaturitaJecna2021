@@ -22,7 +22,7 @@
 
 10. ~~Chráněný režim operační paměti, adresování LA a FA~~
 
-11. Stránkování OP, virtuální pamět, princip přenosu DMA
+11. ~~Stránkování OP, virtuální pamět, princip přenosu DMA~~
 
 12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
 
