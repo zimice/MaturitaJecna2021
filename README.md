@@ -24,7 +24,7 @@
 
 11. ~~Stránkování OP, virtuální pamět, princip přenosu DMA~~
 
-12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
+12. ~~Multitasking a jeho průběh, popis obvodu řadiče přerušení~~
 
 13. Přerušení a jeho průběh, předání řízení, průběh instrukce volá-ní
 
@@ -60,9 +60,9 @@
 
 3. ~~Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministky~~
 
-4. Architectural design patterns - MVC, Multitier, Monolithic, Client/Server
+4. ~~Architectural design patterns - MVC, Multitier, Monolithic, Client/Server~~
 
-5. Asymptotické paměťové a časové složitosti
+5. ~~Asymptotické paměťové a časové složitosti~~
 
 6. Behavioral design patterns - Iterátor, Command a Strategy
 
