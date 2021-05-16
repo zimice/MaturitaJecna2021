@@ -66,7 +66,7 @@
 
 6. Behavioral design patterns - Iterátor, Command a Strategy
 
-7. Creational design patterns - Object pool, Singleton a Factory metoda
+7. ~~Creational design patterns - Object pool, Singleton a Factory metoda~~
 
 8. Datové struktury s klíčem, indexem a hashované
 
