@@ -64,7 +64,7 @@
 
 5. ~~Asymptotické paměťové a časové složitosti~~
 
-6. Behavioral design patterns - Iterátor, Command a Strategy
+6. ~~Behavioral design patterns - Iterátor, Command a Strategy~~
 
 7. ~~Creational design patterns - Object pool, Singleton a Factory metoda~~
 
