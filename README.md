@@ -26,7 +26,7 @@
 
 12. ~~Multitasking a jeho průběh, popis obvodu řadiče přerušení~~
 
-13. Přerušení a jeho průběh, předání řízení, průběh instrukce volá-ní
+13. ~~Přerušení a jeho průběh, předání řízení, průběh instrukce volá-ní~~
 
 14. ~~Matematický koprocesor / FPU, kódování čísel v FPU~~
 
