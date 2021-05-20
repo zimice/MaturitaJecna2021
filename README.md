@@ -30,7 +30,7 @@
 
 14. ~~Matematický koprocesor / FPU, kódování čísel v FPU~~
 
-15. Vývoj procesorů od Pentia do současnosti
+15. ~~Vývoj procesorů od Pentia do současnosti~~
 
 16. ~~Struktura osobního počítače (stolní, přenosný), popis základní desky~~
 
