@@ -80,7 +80,7 @@
 
 13. Konstanty, Statické metody a vlastnosti, Anonymní metody, Ukazatel na metodu
 
-14.~~ Metodiky a životní cyklus vývoje softwaru~~
+14. ~~Metodiky a životní cyklus vývoje softwaru~~
 
 15. ~~Principy objektového programování, agregace a kompozice objektů~~
 
