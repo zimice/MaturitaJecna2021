@@ -100,5 +100,4 @@
 
 23. Vlákna, Paralerní programování, Asynchroní metody
 
-24. Výjimky a aserce, debugování a zpracování chyb
-
+24. ~~Výjimky a aserce, debugování a zpracování chyb~~
