@@ -96,8 +96,8 @@
 
 21. Testování, Unit testování a dokumentace zdrojového kódu
 
-22. Uživatelské rozhraní - Události, Kontrola vstupů, Layout
+22. ~~Uživatelské rozhraní - Události, Kontrola vstupů, Layout~~
 
-23. Vlákna, Paralerní programování, Asynchroní metody
+23. ~~Vlákna, Paralerní programování, Asynchroní metody~~
 
 24. ~~Výjimky a aserce, debugování a zpracování chyb~~
