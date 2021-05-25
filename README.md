@@ -88,16 +88,18 @@
 
 17. Seřazené a neseřazené datové struktury
 
-18. Soubory a serializace Stringy, regulární výrazy, parsování textu, kódování
+18. Soubory a serializace Stringy
 
-19. Structural design patterns - Decorator, Proxy a Flyweight
+19. Regulární výrazy, parsování textu, kódování
 
-20. Síťová komunikace
+20. Structural design patterns - Decorator, Proxy a Flyweight
 
-21. Testování, Unit testování a dokumentace zdrojového kódu
+21. Síťová komunikace
 
-22. ~~Uživatelské rozhraní - Události, Kontrola vstupů, Layout~~
+22. ~~Testování, Unit testování a dokumentace zdrojového kódu~~
 
-23. ~~Vlákna, Paralerní programování, Asynchroní metody~~
+23. ~~Uživatelské rozhraní - Události, Kontrola vstupů, Layout~~
 
-24. ~~Výjimky a aserce, debugování a zpracování chyb~~
+24. ~~Vlákna, Paralerní programování, Asynchroní metody~~
+
+25. ~~Výjimky a aserce, debugování a zpracování chyb~~
