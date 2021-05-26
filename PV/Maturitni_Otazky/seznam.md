@@ -27,15 +27,15 @@
 
 #### 14. Metodiky a životní cyklus vývoje softwaru
 
-#### 15. Principy objektového programování, agregace a kompozice 
+#### 15. Principy objektového programování, agregace a kompozice
 
 #### 16. Rozhraní, dědičnost, abstraktní třídy a přetěžování
 
 #### 17. Seřazené a neseřazené datové struktury
 
-#### 18. Soubory a serializace Stringy
+#### 18. Soubory a serializace
 
-#### 19. Regulární výrazy, parsování textu, kódování
+#### 19. Stringy,Regulární výrazy, parsování textu, kódování
 
 #### 20. Structural design patterns - Decorator, Proxy a Flyweight
 

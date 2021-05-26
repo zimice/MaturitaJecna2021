@@ -94,7 +94,7 @@
 
 20. Structural design patterns - Decorator, Proxy a Flyweight
 
-21. Síťová komunikace
+21. ~~Síťová komunikace~~
 
 22. ~~Testování, Unit testování a dokumentace zdrojového kódu~~
 
