@@ -92,7 +92,7 @@
 
 19. Regulární výrazy, parsování textu, kódování
 
-20. Structural design patterns - Decorator, Proxy a Flyweight
+20. ~~Structural design patterns - Decorator, Proxy a Flyweight~~
 
 21. ~~Síťová komunikace~~
 
