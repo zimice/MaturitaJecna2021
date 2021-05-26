@@ -90,7 +90,7 @@
 
 18. Soubory a serializace Stringy
 
-19. Regulární výrazy, parsování textu, kódování
+19. ~~Regulární výrazy, parsování textu, kódování~~
 
 20. ~~Structural design patterns - Decorator, Proxy a Flyweight~~
 
