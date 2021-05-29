@@ -88,7 +88,7 @@
 
 17. ~~Seřazené a neseřazené datové struktury~~
 
-18. Soubory a serializace Stringy
+18. ~~Soubory a serializace~~
 
 19. ~~Regulární výrazy, parsování textu, kódování~~
 
