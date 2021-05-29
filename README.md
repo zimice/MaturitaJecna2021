@@ -76,17 +76,17 @@
 
 11. Datové typy, Generika, Výčtové datové typy, Struktury
 
-12. Komunikace s databázovým systémem
+12. ~~Komunikace s databázovým systémem~~
 
-13. Konstanty, Statické metody a vlastnosti, Anonymní metody, Ukazatel na metodu
+13. ~~Konstanty, Statické metody a vlastnosti, Anonymní metody, Ukazatel na metodu~~
 
 14. ~~Metodiky a životní cyklus vývoje softwaru~~
 
 15. ~~Principy objektového programování, agregace a kompozice objektů~~
 
-16. Rozhraní, dědičnost, abstraktní třídy a přetěžování
+16. ~~Rozhraní, dědičnost, abstraktní třídy a přetěžování~~
 
-17. Seřazené a neseřazené datové struktury
+17. ~~Seřazené a neseřazené datové struktury~~
 
 18. Soubory a serializace Stringy
 
