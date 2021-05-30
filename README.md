@@ -70,11 +70,11 @@
 
 8. ~~Datové struktury s klíčem, indexem a hashované~~
 
-9. Datové struktury s opakováním a bez opakování
+9. ~~Datové struktury s opakováním a bez opakování~~
 
-10. Datové struktury: Spojový seznam, Strom, Fronta, Zásobník, Halda
+10. ~~Datové struktury: Spojový seznam, Strom, Fronta, Zásobník, Halda~~
 
-11. Datové typy, Generika, Výčtové datové typy, Struktury
+11. ~~Datové typy, Generika, Výčtové datové typy, Struktury~~
 
 12. ~~Komunikace s databázovým systémem~~
 
