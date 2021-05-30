@@ -68,7 +68,7 @@
 
 7. ~~Creational design patterns - Object pool, Singleton a Factory metoda~~
 
-8. Datové struktury s klíčem, indexem a hashované
+8. ~~Datové struktury s klíčem, indexem a hashované~~
 
 9. Datové struktury s opakováním a bez opakování
 
