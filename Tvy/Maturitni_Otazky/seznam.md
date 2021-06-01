@@ -21,9 +21,9 @@
 
 #### 11. Stránkování OP, virtuální pamět, princip přenosu DMA
 
-#### 12. Multitasking a jeho průběh, popis obvodu řadiče přerušení
+#### 12. Multitasking a jeho průběh, předání řízení, průběh instrukce volání
 
-#### 13. Přerušení a jeho průběh, předání řízení, průběh instrukce volá-ní
+#### 13. Přerušení a jeho průběh, popis obvodu řadiče přerušení
 
 #### 14. Matematický koprocesor / FPU, kódování čísel v FPU
 
