@@ -24,7 +24,7 @@
 
 11. ~~Stránkování OP, virtuální pamět, princip přenosu DMA~~
 
-12. ~~Multitasking a jeho průběh, předání řízení, průběh instrukce volání ~~
+12. ~~Multitasking a jeho průběh, předání řízení, průběh instrukce volání~~
 
 13. ~~Přerušení a jeho průběh, popis obvodu řadiče přerušení~~
 
